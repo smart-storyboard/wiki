@@ -7,7 +7,7 @@ export default {
   "title": "Smart Storyboard",
   "tagline": "Smart Storyboard documentation",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://smart-storyboard.github.io",
   "baseUrl": "/wiki/",
   "trailingSlash": false,
   "organizationName": "smart-storyboard",
