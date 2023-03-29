@@ -11,8 +11,8 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/docs/intro",
+        "label": "👋 Welcome to Smart Storyboard",
+        "href": "/wiki/docs/intro",
         "docId": "intro"
       },
       {
@@ -24,41 +24,41 @@
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/docs/tutorial-basics/create-a-page",
+            "href": "/wiki/docs/tutorial-basics/create-a-page",
             "docId": "tutorial-basics/create-a-page"
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document",
+            "href": "/wiki/docs/tutorial-basics/create-a-document",
             "docId": "tutorial-basics/create-a-document"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post",
+            "href": "/wiki/docs/tutorial-basics/create-a-blog-post",
             "docId": "tutorial-basics/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features",
+            "href": "/wiki/docs/tutorial-basics/markdown-features",
             "docId": "tutorial-basics/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site",
+            "href": "/wiki/docs/tutorial-basics/deploy-your-site",
             "docId": "tutorial-basics/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/docs/tutorial-basics/congratulations",
+            "href": "/wiki/docs/tutorial-basics/congratulations",
             "docId": "tutorial-basics/congratulations"
           }
         ],
-        "href": "/docs/category/tutorial---basics"
+        "href": "/wiki/docs/category/tutorial---basics"
       },
       {
         "type": "category",
@@ -69,24 +69,24 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/docs/tutorial-extras/manage-docs-versions",
+            "href": "/wiki/docs/tutorial-extras/manage-docs-versions",
             "docId": "tutorial-extras/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/docs/tutorial-extras/translate-your-site",
+            "href": "/wiki/docs/tutorial-extras/translate-your-site",
             "docId": "tutorial-extras/translate-your-site"
           }
         ],
-        "href": "/docs/category/tutorial---extras"
+        "href": "/wiki/docs/category/tutorial---extras"
       }
     ]
   },
   "docs": {
     "intro": {
       "id": "intro",
-      "title": "Tutorial Intro",
+      "title": "👋 Welcome to Smart Storyboard",
       "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },

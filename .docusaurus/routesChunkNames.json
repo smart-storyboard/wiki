@@ -1,48 +1,48 @@
 {
-  "/__docusaurus/debug-522": {
+  "/wiki/__docusaurus/debug-9c6": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
       "plugin": "plugin---docusaurus-debug-591-fcd"
     }
   },
-  "/__docusaurus/debug/config-f5e": {
+  "/wiki/__docusaurus/debug/config-77b": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
       "plugin": "plugin---docusaurus-debug-591-fcd"
     }
   },
-  "/__docusaurus/debug/content-c26": {
+  "/wiki/__docusaurus/debug/content-868": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
       "plugin": "plugin---docusaurus-debug-591-fcd"
     },
     "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/__docusaurus/debug/globalData-201": {
+  "/wiki/__docusaurus/debug/globalData-f59": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
       "plugin": "plugin---docusaurus-debug-591-fcd"
     }
   },
-  "/__docusaurus/debug/metadata-ffa": {
+  "/wiki/__docusaurus/debug/metadata-9e2": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
       "plugin": "plugin---docusaurus-debug-591-fcd"
     }
   },
-  "/__docusaurus/debug/registry-b0c": {
+  "/wiki/__docusaurus/debug/registry-6d1": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
       "plugin": "plugin---docusaurus-debug-591-fcd"
     }
   },
-  "/__docusaurus/debug/routes-09b": {
+  "/wiki/__docusaurus/debug/routes-28b": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
       "plugin": "plugin---docusaurus-debug-591-fcd"
     }
   },
-  "/blog-584": {
+  "/wiki/blog-6e6": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blogd-32-29b"
@@ -62,16 +62,16 @@
         "content": "content---blog-925-e00"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "metadata": "metadata---wiki-blog-735-80c"
   },
-  "/blog/archive-e39": {
+  "/wiki/blog/archive-1fd": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
       "plugin": "plugin---blogd-32-29b"
     },
-    "archive": "archive---blog-archiveb-2-f-393"
+    "archive": "archive---wiki-blog-archivefda-e91"
   },
-  "/blog/first-blog-post-5b3": {
+  "/wiki/blog/first-blog-post-23d": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "plugin": "plugin---blogd-32-29b"
@@ -79,7 +79,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-first-blog-poste-27-4a1"
   },
-  "/blog/long-blog-post-1a7": {
+  "/wiki/blog/long-blog-post-f77": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "plugin": "plugin---blogd-32-29b"
@@ -87,7 +87,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-long-blog-post-736-bc7"
   },
-  "/blog/mdx-blog-post-1f2": {
+  "/wiki/blog/mdx-blog-post-3a3": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "plugin": "plugin---blogd-32-29b"
@@ -95,15 +95,15 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-mdx-blog-post-593-37b"
   },
-  "/blog/tags-f59": {
+  "/wiki/blog/tags-12d": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
       "plugin": "plugin---blogd-32-29b"
     },
     "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
+    "tags": "tags---wiki-blog-tags-086-6f8"
   },
-  "/blog/tags/docusaurus-fd9": {
+  "/wiki/blog/tags/docusaurus-03d": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blogd-32-29b"
@@ -123,10 +123,10 @@
         "content": "content---blog-925-e00"
       }
     ],
-    "tag": "tag---blog-tags-docusaurusa-80-728",
-    "listMetadata": "listMetadata---blog-tags-docusaurus-608-c09"
+    "tag": "tag---wiki-blog-tags-docusaurusce-9-7f3",
+    "listMetadata": "listMetadata---wiki-blog-tags-docusaurusdc-5-bc7"
   },
-  "/blog/tags/facebook-5f0": {
+  "/wiki/blog/tags/facebook-7e6": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blogd-32-29b"
@@ -137,10 +137,10 @@
         "content": "content---blog-766-e3c"
       }
     ],
-    "tag": "tag---blog-tags-facebook-031-c52",
-    "listMetadata": "listMetadata---blog-tags-facebook-096-d31"
+    "tag": "tag---wiki-blog-tags-facebookdcc-194",
+    "listMetadata": "listMetadata---wiki-blog-tags-facebook-953-274"
   },
-  "/blog/tags/hello-c29": {
+  "/wiki/blog/tags/hello-d6b": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blogd-32-29b"
@@ -154,10 +154,10 @@
         "content": "content---blog-871-381"
       }
     ],
-    "tag": "tag---blog-tags-hello-30-a-bed",
-    "listMetadata": "listMetadata---blog-tags-hello-664-70a"
+    "tag": "tag---wiki-blog-tags-helloa-73-773",
+    "listMetadata": "listMetadata---wiki-blog-tags-hellodd-6-19b"
   },
-  "/blog/tags/hola-203": {
+  "/wiki/blog/tags/hola-af0": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blogd-32-29b"
@@ -168,10 +168,10 @@
         "content": "content---blog-925-e00"
       }
     ],
-    "tag": "tag---blog-tags-holae-16-18a",
-    "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
+    "tag": "tag---wiki-blog-tags-hola-343-8c2",
+    "listMetadata": "listMetadata---wiki-blog-tags-hola-2-b-8-a90"
   },
-  "/blog/welcome-291": {
+  "/wiki/blog/welcome-b41": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "plugin": "plugin---blogd-32-29b"
@@ -179,65 +179,65 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/markdown-page-27a": {
+  "/wiki/markdown-page-017": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
       "plugin": "plugin---markdown-pageb-72-04f"
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-80b": {
+  "/wiki/docs-183": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docse-9-f-c23"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/category/tutorial---basics-d44": {
+  "/wiki/docs/category/tutorial---basics-6cc": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-basicsea-8-8c8"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---wiki-docs-category-tutorial-basics-141-018"
   },
-  "/docs/category/tutorial---extras-f09": {
+  "/wiki/docs/category/tutorial---extras-0a1": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---wiki-docs-category-tutorial-extras-0-bb-d91"
   },
-  "/docs/intro-aed": {
+  "/wiki/docs/intro-619": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
   },
-  "/docs/tutorial-basics/congratulations-793": {
+  "/wiki/docs/tutorial-basics/congratulations-4e8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-congratulations-822-958"
   },
-  "/docs/tutorial-basics/create-a-blog-post-68e": {
+  "/wiki/docs/tutorial-basics/create-a-blog-post-2d4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
   },
-  "/docs/tutorial-basics/create-a-document-c2d": {
+  "/wiki/docs/tutorial-basics/create-a-document-e22": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
   },
-  "/docs/tutorial-basics/create-a-page-f44": {
+  "/wiki/docs/tutorial-basics/create-a-page-750": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
   },
-  "/docs/tutorial-basics/deploy-your-site-e46": {
+  "/wiki/docs/tutorial-basics/deploy-your-site-a6a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
   },
-  "/docs/tutorial-basics/markdown-features-4b7": {
+  "/wiki/docs/tutorial-basics/markdown-features-2f0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
   },
-  "/docs/tutorial-extras/manage-docs-versions-fdd": {
+  "/wiki/docs/tutorial-extras/manage-docs-versions-a07": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
   },
-  "/docs/tutorial-extras/translate-your-site-2d7": {
+  "/wiki/docs/tutorial-extras/translate-your-site-fe7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
   },
-  "/-ee1": {
+  "/wiki/-c0d": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
       "plugin": "plugin---markdown-pageb-72-04f"
