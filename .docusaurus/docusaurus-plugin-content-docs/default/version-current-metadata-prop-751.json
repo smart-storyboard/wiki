@@ -11,7 +11,7 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "👋 Welcome to Smart Storyboard",
+        "label": "Welcome to Smart Storyboard",
         "href": "/wiki/docs/intro",
         "docId": "intro"
       },
@@ -86,7 +86,7 @@
   "docs": {
     "intro": {
       "id": "intro",
-      "title": "👋 Welcome to Smart Storyboard",
+      "title": "Welcome to Smart Storyboard",
       "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },

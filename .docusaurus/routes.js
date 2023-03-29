@@ -38,61 +38,6 @@ export default [
     exact: true
   },
   {
-    path: '/wiki/blog',
-    component: ComponentCreator('/wiki/blog', '6e6'),
-    exact: true
-  },
-  {
-    path: '/wiki/blog/archive',
-    component: ComponentCreator('/wiki/blog/archive', '1fd'),
-    exact: true
-  },
-  {
-    path: '/wiki/blog/first-blog-post',
-    component: ComponentCreator('/wiki/blog/first-blog-post', '23d'),
-    exact: true
-  },
-  {
-    path: '/wiki/blog/long-blog-post',
-    component: ComponentCreator('/wiki/blog/long-blog-post', 'f77'),
-    exact: true
-  },
-  {
-    path: '/wiki/blog/mdx-blog-post',
-    component: ComponentCreator('/wiki/blog/mdx-blog-post', '3a3'),
-    exact: true
-  },
-  {
-    path: '/wiki/blog/tags',
-    component: ComponentCreator('/wiki/blog/tags', '12d'),
-    exact: true
-  },
-  {
-    path: '/wiki/blog/tags/docusaurus',
-    component: ComponentCreator('/wiki/blog/tags/docusaurus', '03d'),
-    exact: true
-  },
-  {
-    path: '/wiki/blog/tags/facebook',
-    component: ComponentCreator('/wiki/blog/tags/facebook', '7e6'),
-    exact: true
-  },
-  {
-    path: '/wiki/blog/tags/hello',
-    component: ComponentCreator('/wiki/blog/tags/hello', 'd6b'),
-    exact: true
-  },
-  {
-    path: '/wiki/blog/tags/hola',
-    component: ComponentCreator('/wiki/blog/tags/hola', 'af0'),
-    exact: true
-  },
-  {
-    path: '/wiki/blog/welcome',
-    component: ComponentCreator('/wiki/blog/welcome', 'b41'),
-    exact: true
-  },
-  {
     path: '/wiki/markdown-page',
     component: ComponentCreator('/wiki/markdown-page', '017'),
     exact: true

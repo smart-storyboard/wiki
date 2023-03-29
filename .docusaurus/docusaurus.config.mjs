@@ -6,7 +6,7 @@
 export default {
   "title": "Smart Storyboard",
   "tagline": "Smart Storyboard documentation",
-  "favicon": "img/favicon.ico",
+  "favicon": "https://mediaproduction.adelaide.edu.au/smart-storyboard/favicon.svg",
   "url": "https://smart-storyboard.github.io",
   "baseUrl": "/wiki/",
   "trailingSlash": false,
@@ -30,10 +30,6 @@ export default {
           "sidebarPath": "/Users/a1702628/Documents/GitHub/org-smartstoryboard/wiki/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
-        "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
-        },
         "theme": {
           "customCss": "/Users/a1702628/Documents/GitHub/org-smartstoryboard/wiki/src/css/custom.css"
         }
@@ -43,22 +39,17 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "Smart Storyboard User Guide",
       "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "alt": "SSB Logo",
+        "src": "https://mediaproduction.adelaide.edu.au/smart-storyboard/favicon.svg"
       },
       "items": [
         {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
+          "label": "Docs"
         },
         {
           "href": "https://github.com/facebook/docusaurus",
@@ -75,38 +66,8 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Docs",
               "to": "/docs/intro"
-            }
-          ]
-        },
-        {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
             }
           ]
         }
