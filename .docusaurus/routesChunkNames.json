@@ -2,109 +2,81 @@
   "/wiki/__docusaurus/debug-9c6": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-591-fcd"
+      "plugin": "plugin---wiki-docusaurus-debug-591-39d"
     }
   },
   "/wiki/__docusaurus/debug/config-77b": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-591-fcd"
+      "plugin": "plugin---wiki-docusaurus-debug-591-39d"
     }
   },
   "/wiki/__docusaurus/debug/content-868": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-591-fcd"
+      "plugin": "plugin---wiki-docusaurus-debug-591-39d"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "allContent": "allContent---wiki-docusaurus-debug-content-246-659"
   },
   "/wiki/__docusaurus/debug/globalData-f59": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-591-fcd"
+      "plugin": "plugin---wiki-docusaurus-debug-591-39d"
     }
   },
   "/wiki/__docusaurus/debug/metadata-9e2": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-591-fcd"
+      "plugin": "plugin---wiki-docusaurus-debug-591-39d"
     }
   },
   "/wiki/__docusaurus/debug/registry-6d1": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-591-fcd"
+      "plugin": "plugin---wiki-docusaurus-debug-591-39d"
     }
   },
   "/wiki/__docusaurus/debug/routes-28b": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-591-fcd"
+      "plugin": "plugin---wiki-docusaurus-debug-591-39d"
     }
   },
   "/wiki/markdown-page-017": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-pageb-72-04f"
+      "plugin": "plugin---wiki-markdown-pageb-72-cb8"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "content---wiki-markdown-page-393-329"
   },
-  "/wiki/docs-183": {
+  "/wiki/docs-9fb": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---docse-9-f-c23"
+      "plugin": "plugin---wiki-docse-9-f-1e5"
     },
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "versionMetadata": "versionMetadata---wiki-docs-935-ef8"
   },
-  "/wiki/docs/category/tutorial---basics-6cc": {
+  "/wiki/docs/category/using-smart-storyboard-ac2": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---wiki-docs-category-tutorial-basics-141-018"
-  },
-  "/wiki/docs/category/tutorial---extras-0a1": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---wiki-docs-category-tutorial-extras-0-bb-d91"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---wiki-docs-category-using-smart-storyboard-370-007"
   },
   "/wiki/docs/intro-619": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "content": "content---wiki-docs-intro-0-e-3-4d1"
   },
-  "/wiki/docs/tutorial-basics/congratulations-4e8": {
+  "/wiki/docs/using-ssb/account-6e2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-congratulations-822-958"
+    "content": "content---wiki-docs-using-ssb-accountf-64-59f"
   },
-  "/wiki/docs/tutorial-basics/create-a-blog-post-2d4": {
+  "/wiki/docs/using-ssb/enrolment-1ef": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
-  },
-  "/wiki/docs/tutorial-basics/create-a-document-e22": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
-  },
-  "/wiki/docs/tutorial-basics/create-a-page-750": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
-  },
-  "/wiki/docs/tutorial-basics/deploy-your-site-a6a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
-  },
-  "/wiki/docs/tutorial-basics/markdown-features-2f0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
-  },
-  "/wiki/docs/tutorial-extras/manage-docs-versions-a07": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
-  },
-  "/wiki/docs/tutorial-extras/translate-your-site-fe7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+    "content": "content---wiki-docs-using-ssb-enrolment-9-f-9-bf6"
   },
   "/wiki/-c0d": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "plugin---markdown-pageb-72-04f"
+      "plugin": "plugin---wiki-markdown-pageb-72-cb8"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "config---wiki-5-e-9-2d9"
   }
 }

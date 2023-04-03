@@ -1,0 +1,26 @@
+{
+  "unversionedId": "using-ssb/account",
+  "id": "using-ssb/account",
+  "title": "Account creation and management",
+  "description": "",
+  "source": "@site/docs/using-ssb/account.md",
+  "sourceDirName": "using-ssb",
+  "slug": "/using-ssb/account",
+  "permalink": "/wiki/docs/using-ssb/account",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Using Smart Storyboard",
+    "permalink": "/wiki/docs/category/using-smart-storyboard"
+  },
+  "next": {
+    "title": "Course enrolment and navigation",
+    "permalink": "/wiki/docs/using-ssb/enrolment"
+  }
+}

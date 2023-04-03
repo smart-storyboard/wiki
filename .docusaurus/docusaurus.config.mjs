@@ -27,8 +27,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/a1702628/Documents/GitHub/org-smartstoryboard/wiki/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "/Users/a1702628/Documents/GitHub/org-smartstoryboard/wiki/sidebars.js"
         },
         "theme": {
           "customCss": "/Users/a1702628/Documents/GitHub/org-smartstoryboard/wiki/src/css/custom.css"
@@ -52,15 +51,15 @@ export default {
           "label": "Docs"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
+          "href": "https://mediaproduction.adelaide.edu.au/smart-storyboard/",
+          "label": "Go to Smart Storyboard",
           "position": "right"
         }
       ],
       "hideOnScroll": false
     },
     "footer": {
-      "style": "dark",
+      "style": "light",
       "links": [
         {
           "title": "Docs",
@@ -72,7 +71,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 The University of Adelaide"
     },
     "prism": {
       "theme": {

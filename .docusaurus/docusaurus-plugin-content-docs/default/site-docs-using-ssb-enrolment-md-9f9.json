@@ -1,0 +1,22 @@
+{
+  "unversionedId": "using-ssb/enrolment",
+  "id": "using-ssb/enrolment",
+  "title": "Course enrolment and navigation",
+  "description": "",
+  "source": "@site/docs/using-ssb/enrolment.md",
+  "sourceDirName": "using-ssb",
+  "slug": "/using-ssb/enrolment",
+  "permalink": "/wiki/docs/using-ssb/enrolment",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Account creation and management",
+    "permalink": "/wiki/docs/using-ssb/account"
+  }
+}

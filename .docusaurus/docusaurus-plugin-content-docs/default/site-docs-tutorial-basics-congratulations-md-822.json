@@ -17,11 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Deploy your site",
-    "permalink": "/wiki/docs/tutorial-basics/deploy-your-site"
-  },
-  "next": {
-    "title": "Tutorial - Extras",
-    "permalink": "/wiki/docs/category/tutorial---extras"
+    "title": "Course enrolment and navigation",
+    "permalink": "/wiki/docs/using-ssb/enrolment"
   }
 }

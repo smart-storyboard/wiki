@@ -1,0 +1,15 @@
+{
+  "title": "Using Smart Storyboard",
+  "slug": "/category/using-smart-storyboard",
+  "permalink": "/wiki/docs/category/using-smart-storyboard",
+  "navigation": {
+    "previous": {
+      "title": "👋 Welcome to Smart Storyboard",
+      "permalink": "/wiki/docs/intro"
+    },
+    "next": {
+      "title": "Account creation and management",
+      "permalink": "/wiki/docs/using-ssb/account"
+    }
+  }
+}
