@@ -47,12 +47,6 @@ export default {
       },
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
-          "position": "left",
-          "label": "Docs"
-        },
-        {
           "href": "https://mediaproduction.adelaide.edu.au/smart-storyboard/",
           "label": "Go to Smart Storyboard",
           "position": "right"
@@ -62,18 +56,8 @@ export default {
     },
     "footer": {
       "style": "light",
-      "links": [
-        {
-          "title": "Docs",
-          "items": [
-            {
-              "label": "Docs",
-              "to": "/docs/intro"
-            }
-          ]
-        }
-      ],
-      "copyright": "Copyright © 2023 The University of Adelaide"
+      "copyright": "Copyright © 2023 The University of Adelaide",
+      "links": []
     },
     "prism": {
       "theme": {

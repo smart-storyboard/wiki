@@ -19,4 +19,4 @@ The Smart Storyboard allows **Learning Designers** and **SMEs** to visualise the
 
 ## Getting Started
 
-The first step to getting started is to [create an account](using-ssb/account.md) if you don't have one, else, [enrol in your course](using-ssb/enrolment.md) and start creating your first Lesson.
+The first step to getting started is to [create an account](./using-ssb/account.md) if you don't have one, else, [enrol in your course](./using-ssb/enrolment.md) and start creating your first Lesson.

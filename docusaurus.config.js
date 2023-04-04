@@ -67,12 +67,6 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Docs',
-          },
-          {
             href: 'https://mediaproduction.adelaide.edu.au/smart-storyboard/',
             label: 'Go to Smart Storyboard',
             position: 'right',
@@ -81,17 +75,17 @@ const config = {
       },
       footer: {
         style: 'light',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Docs',
-                to: '/docs/intro',
-              },
-            ],
-          },
-        ],
+        // links: [
+        //   {
+        //     title: 'Docs',
+        //     items: [
+        //       {
+        //         label: 'Docs',
+        //         to: '/intro',
+        //       },
+        //     ],
+        //   },
+        // ],
         copyright: `Copyright © ${new Date().getFullYear()} The University of Adelaide`,
       },
       prism: {
