@@ -1,3 +1,5 @@
+@import "https://mediaproduction.adelaide.edu.au/uoa-styles/assets/theme.css";
+
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
@@ -18,13 +20,34 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
+
 .navbar {
   background-color: #102535 !important;
   color: #fff !important;
+  font-family: 'Made Evolve Sans', Arial, Helvetica, sans-serif;
 }
+
+.theme-doc-sidebar-menu {
+  font-family: 'Made Evolve Sans', Arial, Helvetica, sans-serif;
+}
+
+.menu__link--active{
+  font-family: 'Made Evolve Sans', Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+
 
 .markdown h1:first-child {
   margin-top: 2rem;
+}
+
+.markdown p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.markdown h1, h2, h3, h4, h5, h6 {
+  font-family: 'Made Evolve Sans', Arial, Helvetica, sans-serif;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
