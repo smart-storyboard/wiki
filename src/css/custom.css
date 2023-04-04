@@ -20,6 +20,10 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
+html {
+  transition: all 0.5s ease;
+}
+
 
 .navbar {
   background-color: #102535 !important;
