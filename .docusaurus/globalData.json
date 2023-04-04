@@ -1,33 +1,33 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/wiki/docs",
+      "path": "/wiki/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/wiki/docs",
+          "path": "/wiki/",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/wiki/docs/intro",
+              "path": "/wiki/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "using-ssb/account",
-              "path": "/wiki/docs/using-ssb/account",
+              "path": "/wiki/using-ssb/account",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "using-ssb/enrolment",
-              "path": "/wiki/docs/using-ssb/enrolment",
+              "path": "/wiki/using-ssb/enrolment",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/using-smart-storyboard",
-              "path": "/wiki/docs/category/using-smart-storyboard",
+              "path": "/wiki/category/using-smart-storyboard",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -35,7 +35,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/wiki/docs/intro",
+                "path": "/wiki/",
                 "label": "intro"
               }
             }

@@ -49,34 +49,27 @@
     },
     "content": "content---wiki-markdown-page-393-329"
   },
-  "/wiki/docs-9fb": {
+  "/wiki/-eab": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---wiki-docse-9-f-1e5"
+      "plugin": "plugin---wiki-e-9-f-de1"
     },
-    "versionMetadata": "versionMetadata---wiki-docs-935-ef8"
+    "versionMetadata": "versionMetadata---wiki-935-e12"
   },
-  "/wiki/docs/category/using-smart-storyboard-ac2": {
+  "/wiki/-9e4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---wiki-intro-0-e-3-af1"
+  },
+  "/wiki/category/using-smart-storyboard-efd": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---wiki-docs-category-using-smart-storyboard-370-007"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---wiki-category-using-smart-storyboardd-91-716"
   },
-  "/wiki/docs/intro-619": {
+  "/wiki/using-ssb/account-c73": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wiki-docs-intro-0-e-3-4d1"
+    "content": "content---wiki-using-ssb-accountf-64-ee8"
   },
-  "/wiki/docs/using-ssb/account-6e2": {
+  "/wiki/using-ssb/enrolment-29e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wiki-docs-using-ssb-accountf-64-59f"
-  },
-  "/wiki/docs/using-ssb/enrolment-1ef": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wiki-docs-using-ssb-enrolment-9-f-9-bf6"
-  },
-  "/wiki/-c0d": {
-    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
-    "__context": {
-      "plugin": "plugin---wiki-markdown-pageb-72-cb8"
-    },
-    "config": "config---wiki-5-e-9-2d9"
+    "content": "content---wiki-using-ssb-enrolment-9-f-9-f12"
   }
 }

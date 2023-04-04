@@ -27,11 +27,13 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/a1702628/Documents/GitHub/org-smartstoryboard/wiki/sidebars.js"
+          "sidebarPath": "/Users/a1702628/Documents/GitHub/org-smartstoryboard/wiki/sidebars.js",
+          "routeBasePath": "/"
         },
         "theme": {
           "customCss": "/Users/a1702628/Documents/GitHub/org-smartstoryboard/wiki/src/css/custom.css"
-        }
+        },
+        "blog": false
       }
     ]
   ],

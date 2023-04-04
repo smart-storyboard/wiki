@@ -43,39 +43,34 @@ export default [
     exact: true
   },
   {
-    path: '/wiki/docs',
-    component: ComponentCreator('/wiki/docs', '9fb'),
+    path: '/wiki/',
+    component: ComponentCreator('/wiki/', 'eab'),
     routes: [
       {
-        path: '/wiki/docs/category/using-smart-storyboard',
-        component: ComponentCreator('/wiki/docs/category/using-smart-storyboard', 'ac2'),
+        path: '/wiki/',
+        component: ComponentCreator('/wiki/', '9e4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/wiki/docs/intro',
-        component: ComponentCreator('/wiki/docs/intro', '619'),
+        path: '/wiki/category/using-smart-storyboard',
+        component: ComponentCreator('/wiki/category/using-smart-storyboard', 'efd'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/wiki/docs/using-ssb/account',
-        component: ComponentCreator('/wiki/docs/using-ssb/account', '6e2'),
+        path: '/wiki/using-ssb/account',
+        component: ComponentCreator('/wiki/using-ssb/account', 'c73'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/wiki/docs/using-ssb/enrolment',
-        component: ComponentCreator('/wiki/docs/using-ssb/enrolment', '1ef'),
+        path: '/wiki/using-ssb/enrolment',
+        component: ComponentCreator('/wiki/using-ssb/enrolment', '29e'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
-  },
-  {
-    path: '/wiki/',
-    component: ComponentCreator('/wiki/', 'c0d'),
-    exact: true
   },
   {
     path: '*',

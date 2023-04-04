@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "👋 Welcome to Smart Storyboard",
-        "href": "/wiki/docs/intro",
+        "href": "/wiki/",
         "docId": "intro"
       },
       {
@@ -24,17 +24,17 @@
           {
             "type": "link",
             "label": "Account creation and management",
-            "href": "/wiki/docs/using-ssb/account",
+            "href": "/wiki/using-ssb/account",
             "docId": "using-ssb/account"
           },
           {
             "type": "link",
             "label": "Course enrolment and navigation",
-            "href": "/wiki/docs/using-ssb/enrolment",
+            "href": "/wiki/using-ssb/enrolment",
             "docId": "using-ssb/enrolment"
           }
         ],
-        "href": "/wiki/docs/category/using-smart-storyboard"
+        "href": "/wiki/category/using-smart-storyboard"
       }
     ]
   },

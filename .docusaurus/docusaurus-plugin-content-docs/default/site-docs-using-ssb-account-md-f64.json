@@ -6,7 +6,7 @@
   "source": "@site/docs/using-ssb/account.md",
   "sourceDirName": "using-ssb",
   "slug": "/using-ssb/account",
-  "permalink": "/wiki/docs/using-ssb/account",
+  "permalink": "/wiki/using-ssb/account",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Using Smart Storyboard",
-    "permalink": "/wiki/docs/category/using-smart-storyboard"
+    "permalink": "/wiki/category/using-smart-storyboard"
   },
   "next": {
     "title": "Course enrolment and navigation",
-    "permalink": "/wiki/docs/using-ssb/enrolment"
+    "permalink": "/wiki/using-ssb/enrolment"
   }
 }

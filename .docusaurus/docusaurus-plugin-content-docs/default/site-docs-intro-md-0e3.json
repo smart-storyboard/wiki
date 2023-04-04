@@ -5,18 +5,19 @@
   "description": "SSB screenshot",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
-  "slug": "/intro",
-  "permalink": "/wiki/docs/intro",
+  "slug": "/",
+  "permalink": "/wiki/",
   "draft": false,
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 1,
+    "slug": "/"
   },
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Using Smart Storyboard",
-    "permalink": "/wiki/docs/category/using-smart-storyboard"
+    "permalink": "/wiki/category/using-smart-storyboard"
   }
 }
