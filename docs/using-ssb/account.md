@@ -8,10 +8,21 @@ sidebar_position: 1
 You can access the Smart Storyboard on our [Media Production GitHub hosted environment](https://mediaproduction.adelaide.edu.au/smart-storyboard/#/ "https://mediaproduction.adelaide.edu.au/smart-storyboard/#/").
 
 On your first time accessing the tool, you’ll be prompted to log in or create an account. If you already have an account, log in using your account details.
+<div style={{textAlign: 'center'}}>
+
+![img.png](img/img.png)
+
+</div>
 
 ## Creating an account
 
 To use the **Smart Storyboard**, you will need an account and this is created inside the tool itself - it does not use nor is it tied to your existing university account, though we do encourage you to use your @adelaide.edu.au email address.
+
+<div style={{textAlign: 'center'}}>
+
+![img_1.png](img/img_1.png)
+
+</div>
 
 :::info
 **Speak, Friend, and Enter**  
@@ -35,7 +46,11 @@ Sign up using your **full name**, your university email and a secure password. Y
 ### Admins
 
 Any creator role can become an Admin of a course. It would primarily be the Lead Learning Designer (LD) on each course. There can only be one (1) Admin role in any course to ensure that we avoid any possible data loss or corruption.
+<div style={{textAlign: 'center'}}>
 
+![img_2.png](img/img_2.png)
+
+</div>
 
 Admins have access to the Course Settings menu, where they can:
 
@@ -52,5 +67,10 @@ Admins have access to the Course Settings menu, where they can:
 Teams in the Smart Storyboard is a way of accessing/viewing courses at a group level. Both Smart Storyboard Users and Courses are added to Teams. A User can be added to multiple Teams and therefore access more courses.
 
 Users select a Team upon account creation.
+<div style={{textAlign: 'center'}}>
+
+![img_3.png](img/img_3.png)
+
+</div>
 
 _Additional teams can be added by the Media Team as necessary._

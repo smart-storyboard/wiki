@@ -44,6 +44,10 @@ html {
   margin-top: 2rem;
 }
 
+.markdown img {
+  max-width: 600px;
+}
+
 /*.markdown p {*/
 /*  font-family: Arial, Helvetica, sans-serif;*/
 /*}*/

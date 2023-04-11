@@ -7,11 +7,29 @@ sidebar_position: 6
 
 Discussions and Quizzes are added through the Lesson view page:
 
+<div style={{textAlign: 'center'}}>
+
+![img_39.png](img/img_39.png)
+
+</div>
+
 To add Discussions or Quizzes to a Lesson, click on the + Discussion/Quiz button and select the type you would like to add. Discussions and Quizzes are displayed below the Block content on each Lesson.
+
+<div style={{textAlign: 'center'}}>
+
+![img_40.png](img/img_40.png)
+
+</div>
 
 Discussion and Quiz Blocks can be edited by clicking on them from the Lesson view, and are done through very similar processes to the Lesson Blocks themselves.
 
 ## Editing a Discussion
+
+<div style={{textAlign: 'center'}}>
+
+![img_41.png](img/img_41.png)
+
+</div>
 
 Discussions uses the Block editor view, with a few extra options:
 
@@ -28,6 +46,11 @@ Almost none of these affect anything inside SSB (except ‘graded’), but will 
 
 ## Editing a Quiz
 
+<div style={{textAlign: 'center'}}>
+
+![img_42.png](img/img_42.png)
+
+</div>
 
 As above, Quizzes use a modified Block editor view:
 

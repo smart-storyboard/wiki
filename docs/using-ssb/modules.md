@@ -8,10 +8,22 @@ sidebar_position: 3
 
 The Module View, Users are able to update the Module name and Production Satus. The Module View provides users with a report of all Lessons in that Module along with the total allocated Student Time on Task.
 
+<div style={{textAlign: 'center'}}>
+
+![img_14.png](img/img_14.png)
+
+</div>
+
 
 ### Module Statuses
 
 The Module Status is used to move work through the production process.
+
+<div style={{textAlign: 'center'}}>
+
+![img_15.png](img/img_15.png)
+
+</div>
 
 |Status|Description  |
 |--|--|
@@ -34,8 +46,20 @@ The **Lesson View** page represents a page inside of a Learning Management Syste
 
 Users can add new blocks by clicking on the + icon:
 
+<div style={{textAlign: 'center'}}>
+
+![img_16.png](img/img_16.png)
+
+</div>
+
 
 This will create a new empty block:
+
+<div style={{textAlign: 'center'}}>
+
+![img_17.png](img/img_17.png)
+
+</div>
 
 
 
@@ -45,11 +69,19 @@ This will create a new empty block:
 
 From the Lesson view, all Blocks for that Lesson can be seen with specific data available from that view.
 
+<div style={{textAlign: 'center'}}>
 
+![img_18.png](img/img_18.png)
+
+</div>
 
 Clicking on this block (while in edit mode) will bring up the Block editing screen.
 
+<div style={{textAlign: 'center'}}>
 
+![img_19.png](img/img_19.png)
+
+</div>
 
 ## The Block View
 
@@ -67,13 +99,32 @@ The intention of Block Status and Assignee is to manage work between Learning De
 | Changes Required | Course Author |
 | Done | - |
 
+<div style={{textAlign: 'center'}}>
+
+![img_20.png](img/img_20.png)
+
+</div>
+
 
 ### Comments
 
 Comments provide a way to leave feedback against a block and tag another user in the process. Comments can be edited, reassigned and marked as complete once resolved.
 
+<div style={{textAlign: 'center'}}>
+
+![img_21.png](img/img_21.png)
+
+</div>
+
 ### Tags
 
 Tags in the Smart Storyboard can be used to label and categorise work at a Course level. Tags can be added by the Lead Learning Designer (Admin role) and then added by all enrolled users in the course.
+
+<div style={{textAlign: 'center'}}>
+
+![img_22.png](img/img_22.png)
+
+</div>
+
 
 Tags are added in the Block view and can be seen in the Dashboard view.
