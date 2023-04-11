@@ -135,7 +135,7 @@
     "using-ssb/media": {
       "id": "using-ssb/media",
       "title": "Adding Media",
-      "description": "This is for the LD/SME-focused documentation. For the Media Production and Course Build-oriented documentation on working with Media, check out the Media Production Guide.",
+      "description": "This is for the LD/SME-focused documentation. For the Media Production and Course Build-oriented documentation on working with Media, this can be found in our internal Confluence page.",
       "sidebar": "tutorialSidebar"
     },
     "using-ssb/modules": {
