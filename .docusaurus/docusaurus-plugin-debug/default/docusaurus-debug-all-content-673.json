@@ -66,58 +66,6 @@
               }
             },
             {
-              "unversionedId": "build/adding-media",
-              "id": "build/adding-media",
-              "title": "Adding Media Previews",
-              "description": "",
-              "source": "@site/docs/build/adding-media.md",
-              "sourceDirName": "build",
-              "slug": "/build/adding-media",
-              "permalink": "/wiki/build/adding-media",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Building Courses with SSB",
-                "permalink": "/wiki/build/building"
-              },
-              "next": {
-                "title": "Administration and Configuration",
-                "permalink": "/wiki/category/administration-and-configuration"
-              }
-            },
-            {
-              "unversionedId": "build/building",
-              "id": "build/building",
-              "title": "Building Courses with SSB",
-              "description": "",
-              "source": "@site/docs/build/building.md",
-              "sourceDirName": "build",
-              "slug": "/build/building",
-              "permalink": "/wiki/build/building",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Course Build",
-                "permalink": "/wiki/category/course-build"
-              },
-              "next": {
-                "title": "Adding Media Previews",
-                "permalink": "/wiki/build/adding-media"
-              }
-            },
-            {
               "unversionedId": "intro",
               "id": "intro",
               "title": "👋 Welcome to Smart Storyboard",
@@ -318,8 +266,8 @@
                 "permalink": "/wiki/using-ssb/dashboard"
               },
               "next": {
-                "title": "Course Build",
-                "permalink": "/wiki/category/course-build"
+                "title": "Administration and Configuration",
+                "permalink": "/wiki/category/administration-and-configuration"
               }
             }
           ],
@@ -369,27 +317,6 @@
                   "type": "generated-index",
                   "slug": "/category/using-smart-storyboard",
                   "permalink": "/wiki/category/using-smart-storyboard"
-                }
-              },
-              {
-                "type": "category",
-                "label": "Course Build",
-                "collapsible": true,
-                "collapsed": false,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "build/building"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "build/adding-media"
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "slug": "/category/course-build",
-                  "permalink": "/wiki/category/course-build"
                 }
               },
               {

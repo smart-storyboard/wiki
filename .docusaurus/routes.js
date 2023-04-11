@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/wiki/',
-    component: ComponentCreator('/wiki/', 'd1c'),
+    component: ComponentCreator('/wiki/', '005'),
     routes: [
       {
         path: '/wiki/',
@@ -65,26 +65,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/wiki/build/adding-media',
-        component: ComponentCreator('/wiki/build/adding-media', '626'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/wiki/build/building',
-        component: ComponentCreator('/wiki/build/building', 'd70'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
         path: '/wiki/category/administration-and-configuration',
         component: ComponentCreator('/wiki/category/administration-and-configuration', '691'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/wiki/category/course-build',
-        component: ComponentCreator('/wiki/category/course-build', '00d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

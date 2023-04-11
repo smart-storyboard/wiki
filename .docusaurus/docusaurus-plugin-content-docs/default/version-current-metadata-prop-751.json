@@ -68,27 +68,6 @@
       },
       {
         "type": "category",
-        "label": "Course Build",
-        "collapsible": true,
-        "collapsed": false,
-        "items": [
-          {
-            "type": "link",
-            "label": "Building Courses with SSB",
-            "href": "/wiki/build/building",
-            "docId": "build/building"
-          },
-          {
-            "type": "link",
-            "label": "Adding Media Previews",
-            "href": "/wiki/build/adding-media",
-            "docId": "build/adding-media"
-          }
-        ],
-        "href": "/wiki/category/course-build"
-      },
-      {
-        "type": "category",
         "label": "Administration and Configuration",
         "collapsible": true,
         "collapsed": false,
@@ -120,18 +99,6 @@
     "admin/structure": {
       "id": "admin/structure",
       "title": "Course Structure",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "build/adding-media": {
-      "id": "build/adding-media",
-      "title": "Adding Media Previews",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "build/building": {
-      "id": "build/building",
-      "title": "Building Courses with SSB",
       "description": "",
       "sidebar": "tutorialSidebar"
     },

@@ -21,16 +21,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "build/adding-media",
-              "path": "/wiki/build/adding-media",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "build/building",
-              "path": "/wiki/build/building",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "intro",
               "path": "/wiki/",
               "sidebar": "tutorialSidebar"
@@ -73,11 +63,6 @@
             {
               "id": "/category/using-smart-storyboard",
               "path": "/wiki/category/using-smart-storyboard",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/course-build",
-              "path": "/wiki/category/course-build",
               "sidebar": "tutorialSidebar"
             },
             {

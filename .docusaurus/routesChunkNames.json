@@ -49,7 +49,7 @@
     },
     "content": "content---wiki-markdown-page-393-329"
   },
-  "/wiki/-d1c": {
+  "/wiki/-005": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---wiki-e-9-f-de1"
@@ -68,21 +68,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---wiki-admin-structure-899-d50"
   },
-  "/wiki/build/adding-media-626": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wiki-build-adding-media-83-f-fa2"
-  },
-  "/wiki/build/building-d70": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wiki-build-building-72-a-d3b"
-  },
   "/wiki/category/administration-and-configuration-691": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---wiki-category-administration-and-configuration-888-a1c"
-  },
-  "/wiki/category/course-build-00d": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---wiki-category-course-build-1-a-8-e80"
   },
   "/wiki/category/using-smart-storyboard-efd": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
