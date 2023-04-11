@@ -1,0 +1,26 @@
+{
+  "unversionedId": "admin/course-settings",
+  "id": "admin/course-settings",
+  "title": "Course Settings",
+  "description": "",
+  "source": "@site/docs/admin/course-settings.md",
+  "sourceDirName": "admin",
+  "slug": "/admin/course-settings",
+  "permalink": "/wiki/admin/course-settings",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Administration and Configuration",
+    "permalink": "/wiki/category/administration-and-configuration"
+  },
+  "next": {
+    "title": "Course Structure",
+    "permalink": "/wiki/admin/structure"
+  }
+}

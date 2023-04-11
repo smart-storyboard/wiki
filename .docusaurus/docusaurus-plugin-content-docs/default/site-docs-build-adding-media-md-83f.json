@@ -1,0 +1,26 @@
+{
+  "unversionedId": "build/adding-media",
+  "id": "build/adding-media",
+  "title": "Adding Media Previews",
+  "description": "",
+  "source": "@site/docs/build/adding-media.md",
+  "sourceDirName": "build",
+  "slug": "/build/adding-media",
+  "permalink": "/wiki/build/adding-media",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Building Courses with SSB",
+    "permalink": "/wiki/build/building"
+  },
+  "next": {
+    "title": "Administration and Configuration",
+    "permalink": "/wiki/category/administration-and-configuration"
+  }
+}

@@ -2,7 +2,7 @@
   "unversionedId": "using-ssb/enrolment",
   "id": "using-ssb/enrolment",
   "title": "Course enrolment and navigation",
-  "description": "",
+  "description": "Viewing a course",
   "source": "@site/docs/using-ssb/enrolment.md",
   "sourceDirName": "using-ssb",
   "slug": "/using-ssb/enrolment",
@@ -18,5 +18,9 @@
   "previous": {
     "title": "Account creation and management",
     "permalink": "/wiki/using-ssb/account"
+  },
+  "next": {
+    "title": "Modules, Lessons & Blocks",
+    "permalink": "/wiki/using-ssb/modules"
   }
 }

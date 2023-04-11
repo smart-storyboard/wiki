@@ -18,6 +18,106 @@
           "contentPathLocalized": "/Users/a1702628/Documents/GitHub/org-smartstoryboard/wiki/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "unversionedId": "admin/course-settings",
+              "id": "admin/course-settings",
+              "title": "Course Settings",
+              "description": "",
+              "source": "@site/docs/admin/course-settings.md",
+              "sourceDirName": "admin",
+              "slug": "/admin/course-settings",
+              "permalink": "/wiki/admin/course-settings",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Administration and Configuration",
+                "permalink": "/wiki/category/administration-and-configuration"
+              },
+              "next": {
+                "title": "Course Structure",
+                "permalink": "/wiki/admin/structure"
+              }
+            },
+            {
+              "unversionedId": "admin/structure",
+              "id": "admin/structure",
+              "title": "Course Structure",
+              "description": "",
+              "source": "@site/docs/admin/structure.md",
+              "sourceDirName": "admin",
+              "slug": "/admin/structure",
+              "permalink": "/wiki/admin/structure",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Course Settings",
+                "permalink": "/wiki/admin/course-settings"
+              }
+            },
+            {
+              "unversionedId": "build/adding-media",
+              "id": "build/adding-media",
+              "title": "Adding Media Previews",
+              "description": "",
+              "source": "@site/docs/build/adding-media.md",
+              "sourceDirName": "build",
+              "slug": "/build/adding-media",
+              "permalink": "/wiki/build/adding-media",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Building Courses with SSB",
+                "permalink": "/wiki/build/building"
+              },
+              "next": {
+                "title": "Administration and Configuration",
+                "permalink": "/wiki/category/administration-and-configuration"
+              }
+            },
+            {
+              "unversionedId": "build/building",
+              "id": "build/building",
+              "title": "Building Courses with SSB",
+              "description": "",
+              "source": "@site/docs/build/building.md",
+              "sourceDirName": "build",
+              "slug": "/build/building",
+              "permalink": "/wiki/build/building",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Course Build",
+                "permalink": "/wiki/category/course-build"
+              },
+              "next": {
+                "title": "Adding Media Previews",
+                "permalink": "/wiki/build/adding-media"
+              }
+            },
+            {
               "unversionedId": "intro",
               "id": "intro",
               "title": "👋 Welcome to Smart Storyboard",
@@ -44,7 +144,7 @@
               "unversionedId": "using-ssb/account",
               "id": "using-ssb/account",
               "title": "Account creation and management",
-              "description": "",
+              "description": "You can access the Smart Storyboard on our Media Production GitHub hosted environment.",
               "source": "@site/docs/using-ssb/account.md",
               "sourceDirName": "using-ssb",
               "slug": "/using-ssb/account",
@@ -67,10 +167,62 @@
               }
             },
             {
+              "unversionedId": "using-ssb/assessment",
+              "id": "using-ssb/assessment",
+              "title": "Assessments",
+              "description": "",
+              "source": "@site/docs/using-ssb/assessment.md",
+              "sourceDirName": "using-ssb",
+              "slug": "/using-ssb/assessment",
+              "permalink": "/wiki/using-ssb/assessment",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Adding Media",
+                "permalink": "/wiki/using-ssb/media"
+              },
+              "next": {
+                "title": "Course Dashboard & Tasks",
+                "permalink": "/wiki/using-ssb/dashboard"
+              }
+            },
+            {
+              "unversionedId": "using-ssb/dashboard",
+              "id": "using-ssb/dashboard",
+              "title": "Course Dashboard & Tasks",
+              "description": "",
+              "source": "@site/docs/using-ssb/dashboard.md",
+              "sourceDirName": "using-ssb",
+              "slug": "/using-ssb/dashboard",
+              "permalink": "/wiki/using-ssb/dashboard",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Assessments",
+                "permalink": "/wiki/using-ssb/assessment"
+              },
+              "next": {
+                "title": "Quizzes & Discussions",
+                "permalink": "/wiki/using-ssb/quizzes"
+              }
+            },
+            {
               "unversionedId": "using-ssb/enrolment",
               "id": "using-ssb/enrolment",
               "title": "Course enrolment and navigation",
-              "description": "",
+              "description": "Viewing a course",
               "source": "@site/docs/using-ssb/enrolment.md",
               "sourceDirName": "using-ssb",
               "slug": "/using-ssb/enrolment",
@@ -86,6 +238,88 @@
               "previous": {
                 "title": "Account creation and management",
                 "permalink": "/wiki/using-ssb/account"
+              },
+              "next": {
+                "title": "Modules, Lessons & Blocks",
+                "permalink": "/wiki/using-ssb/modules"
+              }
+            },
+            {
+              "unversionedId": "using-ssb/media",
+              "id": "using-ssb/media",
+              "title": "Adding Media",
+              "description": "This is for the LD/SME-focused documentation. For the Media Production and Course Build-oriented documentation on working with Media, check out the Media Production Guide.",
+              "source": "@site/docs/using-ssb/media.md",
+              "sourceDirName": "using-ssb",
+              "slug": "/using-ssb/media",
+              "permalink": "/wiki/using-ssb/media",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Modules, Lessons & Blocks",
+                "permalink": "/wiki/using-ssb/modules"
+              },
+              "next": {
+                "title": "Assessments",
+                "permalink": "/wiki/using-ssb/assessment"
+              }
+            },
+            {
+              "unversionedId": "using-ssb/modules",
+              "id": "using-ssb/modules",
+              "title": "Modules, Lessons & Blocks",
+              "description": "Module View",
+              "source": "@site/docs/using-ssb/modules.md",
+              "sourceDirName": "using-ssb",
+              "slug": "/using-ssb/modules",
+              "permalink": "/wiki/using-ssb/modules",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Course enrolment and navigation",
+                "permalink": "/wiki/using-ssb/enrolment"
+              },
+              "next": {
+                "title": "Adding Media",
+                "permalink": "/wiki/using-ssb/media"
+              }
+            },
+            {
+              "unversionedId": "using-ssb/quizzes",
+              "id": "using-ssb/quizzes",
+              "title": "Quizzes & Discussions",
+              "description": "",
+              "source": "@site/docs/using-ssb/quizzes.md",
+              "sourceDirName": "using-ssb",
+              "slug": "/using-ssb/quizzes",
+              "permalink": "/wiki/using-ssb/quizzes",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Course Dashboard & Tasks",
+                "permalink": "/wiki/using-ssb/dashboard"
+              },
+              "next": {
+                "title": "Course Build",
+                "permalink": "/wiki/category/course-build"
               }
             }
           ],
@@ -109,12 +343,74 @@
                   {
                     "type": "doc",
                     "id": "using-ssb/enrolment"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "using-ssb/modules"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "using-ssb/media"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "using-ssb/assessment"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "using-ssb/dashboard"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "using-ssb/quizzes"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/using-smart-storyboard",
                   "permalink": "/wiki/category/using-smart-storyboard"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Course Build",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "build/building"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "build/adding-media"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/course-build",
+                  "permalink": "/wiki/category/course-build"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Administration and Configuration",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "admin/course-settings"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "admin/structure"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/administration-and-configuration",
+                  "permalink": "/wiki/category/administration-and-configuration"
                 }
               }
             ]

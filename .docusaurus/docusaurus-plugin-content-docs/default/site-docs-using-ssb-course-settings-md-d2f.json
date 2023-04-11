@@ -1,0 +1,26 @@
+{
+  "unversionedId": "using-ssb/course-settings",
+  "id": "using-ssb/course-settings",
+  "title": "Assessments",
+  "description": "",
+  "source": "@site/docs/using-ssb/course-settings.md",
+  "sourceDirName": "using-ssb",
+  "slug": "/using-ssb/course-settings",
+  "permalink": "/wiki/using-ssb/course-settings",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Assessments",
+    "permalink": "/wiki/using-ssb/assessment"
+  },
+  "next": {
+    "title": "Course Dashboard & Tasks",
+    "permalink": "/wiki/using-ssb/dashboard"
+  }
+}

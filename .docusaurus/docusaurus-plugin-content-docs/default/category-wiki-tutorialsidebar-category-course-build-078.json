@@ -1,0 +1,15 @@
+{
+  "title": "Course Build",
+  "slug": "/category/course-build",
+  "permalink": "/wiki/category/course-build",
+  "navigation": {
+    "previous": {
+      "title": "Quizzes & Discussions",
+      "permalink": "/wiki/using-ssb/quizzes"
+    },
+    "next": {
+      "title": "Building Courses with SSB",
+      "permalink": "/wiki/build/building"
+    }
+  }
+}

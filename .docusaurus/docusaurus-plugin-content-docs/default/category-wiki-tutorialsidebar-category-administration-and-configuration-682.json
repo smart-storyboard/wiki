@@ -1,0 +1,15 @@
+{
+  "title": "Administration and Configuration",
+  "slug": "/category/administration-and-configuration",
+  "permalink": "/wiki/category/administration-and-configuration",
+  "navigation": {
+    "previous": {
+      "title": "Adding Media Previews",
+      "permalink": "/wiki/build/adding-media"
+    },
+    "next": {
+      "title": "Course Settings",
+      "permalink": "/wiki/admin/course-settings"
+    }
+  }
+}

@@ -11,6 +11,26 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "admin/course-settings",
+              "path": "/wiki/admin/course-settings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "admin/structure",
+              "path": "/wiki/admin/structure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "build/adding-media",
+              "path": "/wiki/build/adding-media",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "build/building",
+              "path": "/wiki/build/building",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/wiki/",
               "sidebar": "tutorialSidebar"
@@ -21,13 +41,48 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "using-ssb/assessment",
+              "path": "/wiki/using-ssb/assessment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "using-ssb/dashboard",
+              "path": "/wiki/using-ssb/dashboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "using-ssb/enrolment",
               "path": "/wiki/using-ssb/enrolment",
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "using-ssb/media",
+              "path": "/wiki/using-ssb/media",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "using-ssb/modules",
+              "path": "/wiki/using-ssb/modules",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "using-ssb/quizzes",
+              "path": "/wiki/using-ssb/quizzes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/using-smart-storyboard",
               "path": "/wiki/category/using-smart-storyboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/course-build",
+              "path": "/wiki/category/course-build",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/administration-and-configuration",
+              "path": "/wiki/category/administration-and-configuration",
               "sidebar": "tutorialSidebar"
             }
           ],

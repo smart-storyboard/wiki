@@ -1,0 +1,26 @@
+{
+  "unversionedId": "using-ssb/media",
+  "id": "using-ssb/media",
+  "title": "Adding Media",
+  "description": "This is for the LD/SME-focused documentation. For the Media Production and Course Build-oriented documentation on working with Media, check out the Media Production Guide.",
+  "source": "@site/docs/using-ssb/media.md",
+  "sourceDirName": "using-ssb",
+  "slug": "/using-ssb/media",
+  "permalink": "/wiki/using-ssb/media",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Modules, Lessons & Blocks",
+    "permalink": "/wiki/using-ssb/modules"
+  },
+  "next": {
+    "title": "Assessments",
+    "permalink": "/wiki/using-ssb/assessment"
+  }
+}

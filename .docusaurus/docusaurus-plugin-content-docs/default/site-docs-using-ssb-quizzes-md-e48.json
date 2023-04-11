@@ -1,0 +1,26 @@
+{
+  "unversionedId": "using-ssb/quizzes",
+  "id": "using-ssb/quizzes",
+  "title": "Quizzes & Discussions",
+  "description": "",
+  "source": "@site/docs/using-ssb/quizzes.md",
+  "sourceDirName": "using-ssb",
+  "slug": "/using-ssb/quizzes",
+  "permalink": "/wiki/using-ssb/quizzes",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Course Dashboard & Tasks",
+    "permalink": "/wiki/using-ssb/dashboard"
+  },
+  "next": {
+    "title": "Course Build",
+    "permalink": "/wiki/category/course-build"
+  }
+}

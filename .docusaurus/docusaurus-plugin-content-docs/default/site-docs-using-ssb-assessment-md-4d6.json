@@ -1,0 +1,26 @@
+{
+  "unversionedId": "using-ssb/assessment",
+  "id": "using-ssb/assessment",
+  "title": "Assessments",
+  "description": "",
+  "source": "@site/docs/using-ssb/assessment.md",
+  "sourceDirName": "using-ssb",
+  "slug": "/using-ssb/assessment",
+  "permalink": "/wiki/using-ssb/assessment",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Adding Media",
+    "permalink": "/wiki/using-ssb/media"
+  },
+  "next": {
+    "title": "Course Dashboard & Tasks",
+    "permalink": "/wiki/using-ssb/dashboard"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "using-ssb/modules",
+  "id": "using-ssb/modules",
+  "title": "Modules, Lessons & Blocks",
+  "description": "Module View",
+  "source": "@site/docs/using-ssb/modules.md",
+  "sourceDirName": "using-ssb",
+  "slug": "/using-ssb/modules",
+  "permalink": "/wiki/using-ssb/modules",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Course enrolment and navigation",
+    "permalink": "/wiki/using-ssb/enrolment"
+  },
+  "next": {
+    "title": "Adding Media",
+    "permalink": "/wiki/using-ssb/media"
+  }
+}

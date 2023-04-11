@@ -1,0 +1,22 @@
+{
+  "unversionedId": "admin/structure",
+  "id": "admin/structure",
+  "title": "Course Structure",
+  "description": "",
+  "source": "@site/docs/admin/structure.md",
+  "sourceDirName": "admin",
+  "slug": "/admin/structure",
+  "permalink": "/wiki/admin/structure",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Course Settings",
+    "permalink": "/wiki/admin/course-settings"
+  }
+}

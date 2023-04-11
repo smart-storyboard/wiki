@@ -32,13 +32,109 @@
             "label": "Course enrolment and navigation",
             "href": "/wiki/using-ssb/enrolment",
             "docId": "using-ssb/enrolment"
+          },
+          {
+            "type": "link",
+            "label": "Modules, Lessons & Blocks",
+            "href": "/wiki/using-ssb/modules",
+            "docId": "using-ssb/modules"
+          },
+          {
+            "type": "link",
+            "label": "Adding Media",
+            "href": "/wiki/using-ssb/media",
+            "docId": "using-ssb/media"
+          },
+          {
+            "type": "link",
+            "label": "Assessments",
+            "href": "/wiki/using-ssb/assessment",
+            "docId": "using-ssb/assessment"
+          },
+          {
+            "type": "link",
+            "label": "Course Dashboard & Tasks",
+            "href": "/wiki/using-ssb/dashboard",
+            "docId": "using-ssb/dashboard"
+          },
+          {
+            "type": "link",
+            "label": "Quizzes & Discussions",
+            "href": "/wiki/using-ssb/quizzes",
+            "docId": "using-ssb/quizzes"
           }
         ],
         "href": "/wiki/category/using-smart-storyboard"
+      },
+      {
+        "type": "category",
+        "label": "Course Build",
+        "collapsible": true,
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "Building Courses with SSB",
+            "href": "/wiki/build/building",
+            "docId": "build/building"
+          },
+          {
+            "type": "link",
+            "label": "Adding Media Previews",
+            "href": "/wiki/build/adding-media",
+            "docId": "build/adding-media"
+          }
+        ],
+        "href": "/wiki/category/course-build"
+      },
+      {
+        "type": "category",
+        "label": "Administration and Configuration",
+        "collapsible": true,
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "Course Settings",
+            "href": "/wiki/admin/course-settings",
+            "docId": "admin/course-settings"
+          },
+          {
+            "type": "link",
+            "label": "Course Structure",
+            "href": "/wiki/admin/structure",
+            "docId": "admin/structure"
+          }
+        ],
+        "href": "/wiki/category/administration-and-configuration"
       }
     ]
   },
   "docs": {
+    "admin/course-settings": {
+      "id": "admin/course-settings",
+      "title": "Course Settings",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "admin/structure": {
+      "id": "admin/structure",
+      "title": "Course Structure",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "build/adding-media": {
+      "id": "build/adding-media",
+      "title": "Adding Media Previews",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "build/building": {
+      "id": "build/building",
+      "title": "Building Courses with SSB",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
     "intro": {
       "id": "intro",
       "title": "👋 Welcome to Smart Storyboard",
@@ -48,12 +144,42 @@
     "using-ssb/account": {
       "id": "using-ssb/account",
       "title": "Account creation and management",
+      "description": "You can access the Smart Storyboard on our Media Production GitHub hosted environment.",
+      "sidebar": "tutorialSidebar"
+    },
+    "using-ssb/assessment": {
+      "id": "using-ssb/assessment",
+      "title": "Assessments",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "using-ssb/dashboard": {
+      "id": "using-ssb/dashboard",
+      "title": "Course Dashboard & Tasks",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
     "using-ssb/enrolment": {
       "id": "using-ssb/enrolment",
       "title": "Course enrolment and navigation",
+      "description": "Viewing a course",
+      "sidebar": "tutorialSidebar"
+    },
+    "using-ssb/media": {
+      "id": "using-ssb/media",
+      "title": "Adding Media",
+      "description": "This is for the LD/SME-focused documentation. For the Media Production and Course Build-oriented documentation on working with Media, check out the Media Production Guide.",
+      "sidebar": "tutorialSidebar"
+    },
+    "using-ssb/modules": {
+      "id": "using-ssb/modules",
+      "title": "Modules, Lessons & Blocks",
+      "description": "Module View",
+      "sidebar": "tutorialSidebar"
+    },
+    "using-ssb/quizzes": {
+      "id": "using-ssb/quizzes",
+      "title": "Quizzes & Discussions",
       "description": "",
       "sidebar": "tutorialSidebar"
     }

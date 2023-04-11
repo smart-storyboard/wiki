@@ -44,11 +44,47 @@ export default [
   },
   {
     path: '/wiki/',
-    component: ComponentCreator('/wiki/', 'eab'),
+    component: ComponentCreator('/wiki/', 'd1c'),
     routes: [
       {
         path: '/wiki/',
         component: ComponentCreator('/wiki/', '9e4'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/wiki/admin/course-settings',
+        component: ComponentCreator('/wiki/admin/course-settings', '426'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/wiki/admin/structure',
+        component: ComponentCreator('/wiki/admin/structure', 'bf8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/wiki/build/adding-media',
+        component: ComponentCreator('/wiki/build/adding-media', '626'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/wiki/build/building',
+        component: ComponentCreator('/wiki/build/building', 'd70'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/wiki/category/administration-and-configuration',
+        component: ComponentCreator('/wiki/category/administration-and-configuration', '691'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/wiki/category/course-build',
+        component: ComponentCreator('/wiki/category/course-build', '00d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -65,8 +101,38 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/wiki/using-ssb/assessment',
+        component: ComponentCreator('/wiki/using-ssb/assessment', 'c43'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/wiki/using-ssb/dashboard',
+        component: ComponentCreator('/wiki/using-ssb/dashboard', '9bb'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/wiki/using-ssb/enrolment',
         component: ComponentCreator('/wiki/using-ssb/enrolment', '29e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/wiki/using-ssb/media',
+        component: ComponentCreator('/wiki/using-ssb/media', '4fb'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/wiki/using-ssb/modules',
+        component: ComponentCreator('/wiki/using-ssb/modules', '27f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/wiki/using-ssb/quizzes',
+        component: ComponentCreator('/wiki/using-ssb/quizzes', '808'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
