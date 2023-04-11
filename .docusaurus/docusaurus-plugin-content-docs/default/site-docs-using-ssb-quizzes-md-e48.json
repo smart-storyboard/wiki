@@ -2,7 +2,7 @@
   "unversionedId": "using-ssb/quizzes",
   "id": "using-ssb/quizzes",
   "title": "Quizzes & Discussions",
-  "description": "",
+  "description": "Discussions and Quizzes are added through the Lesson view page:",
   "source": "@site/docs/using-ssb/quizzes.md",
   "sourceDirName": "using-ssb",
   "slug": "/using-ssb/quizzes",

@@ -2,7 +2,7 @@
   "unversionedId": "using-ssb/assessment",
   "id": "using-ssb/assessment",
   "title": "Assessments",
-  "description": "",
+  "description": "To add an Assessment, you first need to an an Assessment Group. Each Group has a weighting which should total to 100% across all items.",
   "source": "@site/docs/using-ssb/assessment.md",
   "sourceDirName": "using-ssb",
   "slug": "/using-ssb/assessment",

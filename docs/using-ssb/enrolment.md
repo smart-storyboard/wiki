@@ -34,7 +34,7 @@ To add a new course to the Smart Storyboard, send an email to the Media team wit
 
 -   Course Code (optional)
 
--   Durationg Type (Module/Week/Section)
+-   Duration Type (Module/Week/Section)
 
 -   Lesson Display Name (Page/Lesson/Part/Topic/Activity)
 
