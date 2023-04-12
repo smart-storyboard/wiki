@@ -13,9 +13,9 @@
           "tagsPath": "/wiki/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/a1702628/Documents/GitHub/org-smartstoryboard/wiki/sidebars.js",
-          "contentPath": "/Users/a1702628/Documents/GitHub/org-smartstoryboard/wiki/docs",
-          "contentPathLocalized": "/Users/a1702628/Documents/GitHub/org-smartstoryboard/wiki/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/a1223558/Documents/GitHub/smart-storyboard-wiki/sidebars.js",
+          "contentPath": "/Users/a1223558/Documents/GitHub/smart-storyboard-wiki/docs",
+          "contentPathLocalized": "/Users/a1223558/Documents/GitHub/smart-storyboard-wiki/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "admin/course-settings",
@@ -69,7 +69,7 @@
               "unversionedId": "intro",
               "id": "intro",
               "title": "👋 Welcome to Smart Storyboard",
-              "description": "SSB screenshot",
+              "description": "The Smart Storyboard is a cloud based development tool which aims to replace word based documents as the primary means of capturing and developing learning material for online courses.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/",

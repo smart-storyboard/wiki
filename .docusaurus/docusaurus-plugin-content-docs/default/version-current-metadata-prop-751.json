@@ -105,7 +105,7 @@
     "intro": {
       "id": "intro",
       "title": "👋 Welcome to Smart Storyboard",
-      "description": "SSB screenshot",
+      "description": "The Smart Storyboard is a cloud based development tool which aims to replace word based documents as the primary means of capturing and developing learning material for online courses.",
       "sidebar": "tutorialSidebar"
     },
     "using-ssb/account": {

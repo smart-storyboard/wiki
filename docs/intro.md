@@ -5,7 +5,7 @@ slug: /
 
 # 👋 Welcome to Smart Storyboard
 
-![SSB screenshot](img/ssb-screenshot.png)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/KlqICfhHVYU" frameborder="0" allowfullscreen></iframe>
 
 The **Smart Storyboard** is a cloud based development tool which aims to replace word based documents as the primary means of capturing and developing learning material for online courses.
 
