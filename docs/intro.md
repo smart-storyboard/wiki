@@ -196,14 +196,14 @@ slug: /
   <a
     target="_blank"
     rel="noopener noreferrer nofollow"
-    href="./using-ssb/account.md"
+    href="./using-ssb/account"
     >create an account</a
   >
   if you don't have one, else,
   <a
     target="_blank"
     rel="noopener noreferrer nofollow"
-    href="./using-ssb/enrolment.md"
+    href="./using-ssb/enrolment"
     >enrol in your course</a
   >
   and start creating your first Lesson!
