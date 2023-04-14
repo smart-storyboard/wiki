@@ -13,9 +13,9 @@
           "tagsPath": "/wiki/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/a1223558/Documents/GitHub/smart-storyboard-wiki/sidebars.js",
-          "contentPath": "/Users/a1223558/Documents/GitHub/smart-storyboard-wiki/docs",
-          "contentPathLocalized": "/Users/a1223558/Documents/GitHub/smart-storyboard-wiki/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/a1702628/Documents/GitHub/org-smartstoryboard/wiki/sidebars.js",
+          "contentPath": "/Users/a1702628/Documents/GitHub/org-smartstoryboard/wiki/docs",
+          "contentPathLocalized": "/Users/a1702628/Documents/GitHub/org-smartstoryboard/wiki/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "admin/course-settings",
