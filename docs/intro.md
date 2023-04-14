@@ -192,19 +192,14 @@ slug: /
 </table>
 <h2>Getting Started</h2>
 <p>
-  The first step to getting started is to
-  <a
+  The first step to getting started is to <a
     target="_blank"
     rel="noopener noreferrer nofollow"
     href="./using-ssb/account"
-    >create an account</a
-  >
-  if you don't have one, else,
-  <a
+    >create an account</a> if you don't have one, else, <a
     target="_blank"
     rel="noopener noreferrer nofollow"
     href="./using-ssb/enrolment"
     >enrol in your course</a
-  >
-  and start creating your first Lesson!
+  > and start creating your first Lesson!
 </p>
