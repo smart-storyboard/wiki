@@ -73,3 +73,11 @@ html {
 [data-theme='dark'] .navbar {
     background-color: #102535 !important;
 }
+
+.iframe-wrapper {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    min-height: 480px;
+    margin: 0 auto;
+}
