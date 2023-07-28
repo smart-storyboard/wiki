@@ -1,0 +1,26 @@
+{
+  "unversionedId": "video/writing-video",
+  "id": "video/writing-video",
+  "title": "Writing your video storyboard",
+  "description": "Each Video Storyboard has a number of fields that can be populated from within the Storyboard view. These include:",
+  "source": "@site/docs/video/writing-video.md",
+  "sourceDirName": "video",
+  "slug": "/video/writing-video",
+  "permalink": "/wiki/video/writing-video",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Video Production Storyboarding",
+    "permalink": "/wiki/video/intro"
+  },
+  "next": {
+    "title": "Storyboards and Media Assets",
+    "permalink": "/wiki/video/video-media"
+  }
+}

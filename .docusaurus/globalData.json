@@ -61,6 +61,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "video/intro",
+              "path": "/wiki/video/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "video/video-media",
+              "path": "/wiki/video/video-media",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "video/writing-video",
+              "path": "/wiki/video/writing-video",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/using-smart-storyboard",
               "path": "/wiki/category/using-smart-storyboard",
               "sidebar": "tutorialSidebar"
@@ -68,6 +83,11 @@
             {
               "id": "/category/administration-and-configuration",
               "path": "/wiki/category/administration-and-configuration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/learning-video-production-in-smart-storyboard",
+              "path": "/wiki/category/learning-video-production-in-smart-storyboard",
               "sidebar": "tutorialSidebar"
             }
           ],

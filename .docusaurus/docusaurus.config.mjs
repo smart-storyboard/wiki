@@ -12,7 +12,7 @@ export default {
   "trailingSlash": false,
   "organizationName": "smart-storyboard",
   "projectName": "wiki",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",

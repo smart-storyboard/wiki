@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/wiki/',
-    component: ComponentCreator('/wiki/', '005'),
+    component: ComponentCreator('/wiki/', '0f7'),
     routes: [
       {
         path: '/wiki/',
@@ -67,6 +67,12 @@ export default [
       {
         path: '/wiki/category/administration-and-configuration',
         component: ComponentCreator('/wiki/category/administration-and-configuration', '691'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/wiki/category/learning-video-production-in-smart-storyboard',
+        component: ComponentCreator('/wiki/category/learning-video-production-in-smart-storyboard', 'e08'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -115,6 +121,24 @@ export default [
       {
         path: '/wiki/using-ssb/quizzes',
         component: ComponentCreator('/wiki/using-ssb/quizzes', '808'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/wiki/video/intro',
+        component: ComponentCreator('/wiki/video/intro', '660'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/wiki/video/video-media',
+        component: ComponentCreator('/wiki/video/video-media', 'fa6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/wiki/video/writing-video',
+        component: ComponentCreator('/wiki/video/writing-video', '978'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

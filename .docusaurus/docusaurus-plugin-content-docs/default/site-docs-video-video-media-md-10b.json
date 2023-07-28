@@ -1,0 +1,22 @@
+{
+  "unversionedId": "video/video-media",
+  "id": "video/video-media",
+  "title": "Storyboards and Media Assets",
+  "description": "Videos can now have media items nested within them - meaning a video can have images or animations attached to them.",
+  "source": "@site/docs/video/video-media.md",
+  "sourceDirName": "video",
+  "slug": "/video/video-media",
+  "permalink": "/wiki/video/video-media",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Writing your video storyboard",
+    "permalink": "/wiki/video/writing-video"
+  }
+}

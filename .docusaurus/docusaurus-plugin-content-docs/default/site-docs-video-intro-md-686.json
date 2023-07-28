@@ -1,0 +1,26 @@
+{
+  "unversionedId": "video/intro",
+  "id": "video/intro",
+  "title": "Video Production Storyboarding",
+  "description": "Video Production view has now been added to the Smart Storyboard. This view can be used to see videos and animations in the course, create new storyboards for a video, update their status, and navigate to each “storyboard” as needed. This introductory page will cover how to find this new view, how to create your new video storyboard and how to assign statuses.",
+  "source": "@site/docs/video/intro.md",
+  "sourceDirName": "video",
+  "slug": "/video/intro",
+  "permalink": "/wiki/video/intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Learning Video Production in Smart Storyboard",
+    "permalink": "/wiki/category/learning-video-production-in-smart-storyboard"
+  },
+  "next": {
+    "title": "Writing your video storyboard",
+    "permalink": "/wiki/video/writing-video"
+  }
+}

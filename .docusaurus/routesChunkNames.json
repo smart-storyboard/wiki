@@ -49,7 +49,7 @@
     },
     "content": "content---wiki-markdown-page-393-329"
   },
-  "/wiki/-005": {
+  "/wiki/-0f7": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---wiki-e-9-f-de1"
@@ -71,6 +71,10 @@
   "/wiki/category/administration-and-configuration-691": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---wiki-category-administration-and-configuration-888-a1c"
+  },
+  "/wiki/category/learning-video-production-in-smart-storyboard-e08": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---wiki-category-learning-video-production-in-smart-storyboard-33-e-a09"
   },
   "/wiki/category/using-smart-storyboard-efd": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -103,5 +107,17 @@
   "/wiki/using-ssb/quizzes-808": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---wiki-using-ssb-quizzese-48-0f3"
+  },
+  "/wiki/video/intro-660": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---wiki-video-intro-686-604"
+  },
+  "/wiki/video/video-media-fa6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---wiki-video-video-media-10-b-c0b"
+  },
+  "/wiki/video/writing-video-978": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---wiki-video-writing-video-2-e-9-138"
   }
 }
