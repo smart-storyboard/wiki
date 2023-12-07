@@ -3,48 +3,13 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/wiki/__docusaurus/debug',
-    component: ComponentCreator('/wiki/__docusaurus/debug', '9c6'),
-    exact: true
-  },
-  {
-    path: '/wiki/__docusaurus/debug/config',
-    component: ComponentCreator('/wiki/__docusaurus/debug/config', '77b'),
-    exact: true
-  },
-  {
-    path: '/wiki/__docusaurus/debug/content',
-    component: ComponentCreator('/wiki/__docusaurus/debug/content', '868'),
-    exact: true
-  },
-  {
-    path: '/wiki/__docusaurus/debug/globalData',
-    component: ComponentCreator('/wiki/__docusaurus/debug/globalData', 'f59'),
-    exact: true
-  },
-  {
-    path: '/wiki/__docusaurus/debug/metadata',
-    component: ComponentCreator('/wiki/__docusaurus/debug/metadata', '9e2'),
-    exact: true
-  },
-  {
-    path: '/wiki/__docusaurus/debug/registry',
-    component: ComponentCreator('/wiki/__docusaurus/debug/registry', '6d1'),
-    exact: true
-  },
-  {
-    path: '/wiki/__docusaurus/debug/routes',
-    component: ComponentCreator('/wiki/__docusaurus/debug/routes', '28b'),
-    exact: true
-  },
-  {
     path: '/wiki/markdown-page',
-    component: ComponentCreator('/wiki/markdown-page', '017'),
+    component: ComponentCreator('/wiki/markdown-page', '84a'),
     exact: true
   },
   {
     path: '/wiki/',
-    component: ComponentCreator('/wiki/', '0f7'),
+    component: ComponentCreator('/wiki/', 'f3d'),
     routes: [
       {
         path: '/wiki/',
@@ -55,6 +20,12 @@ export default [
       {
         path: '/wiki/admin/course-settings',
         component: ComponentCreator('/wiki/admin/course-settings', '426'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/wiki/admin/dashboard',
+        component: ComponentCreator('/wiki/admin/dashboard', '328'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -95,12 +66,6 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/wiki/using-ssb/dashboard',
-        component: ComponentCreator('/wiki/using-ssb/dashboard', '9bb'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
         path: '/wiki/using-ssb/enrolment',
         component: ComponentCreator('/wiki/using-ssb/enrolment', '29e'),
         exact: true,
@@ -121,6 +86,12 @@ export default [
       {
         path: '/wiki/using-ssb/quizzes',
         component: ComponentCreator('/wiki/using-ssb/quizzes', '808'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/wiki/using-ssb/request',
+        component: ComponentCreator('/wiki/using-ssb/request', '2ae'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

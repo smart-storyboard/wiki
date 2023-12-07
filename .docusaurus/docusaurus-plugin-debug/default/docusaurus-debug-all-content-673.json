@@ -13,19 +13,45 @@
           "tagsPath": "/wiki/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/a1702628/Documents/GitHub/org-smartstoryboard/wiki/sidebars.js",
-          "contentPath": "/Users/a1702628/Documents/GitHub/org-smartstoryboard/wiki/docs",
-          "contentPathLocalized": "/Users/a1702628/Documents/GitHub/org-smartstoryboard/wiki/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/a1697073/githubRepos/wiki/sidebars.js",
+          "contentPath": "/Users/a1697073/githubRepos/wiki/docs",
+          "contentPathLocalized": "/Users/a1697073/githubRepos/wiki/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "admin/course-settings",
               "id": "admin/course-settings",
-              "title": "Course Settings",
+              "title": "Course Settings (Admin)",
               "description": "Admin users can view and modify course configuration settings in the Course Config view. Here, the Course Readings list link can also be added and edited, which provides all users with a hyperlink to the Course Readings from the Dashboard.",
               "source": "@site/docs/admin/course-settings.md",
               "sourceDirName": "admin",
               "slug": "/admin/course-settings",
               "permalink": "/wiki/admin/course-settings",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "The Dashboard",
+                "permalink": "/wiki/admin/dashboard"
+              },
+              "next": {
+                "title": "Course Structure",
+                "permalink": "/wiki/admin/structure"
+              }
+            },
+            {
+              "unversionedId": "admin/dashboard",
+              "id": "admin/dashboard",
+              "title": "The Dashboard",
+              "description": "Dashboard",
+              "source": "@site/docs/admin/dashboard.md",
+              "sourceDirName": "admin",
+              "slug": "/admin/dashboard",
+              "permalink": "/wiki/admin/dashboard",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -39,8 +65,8 @@
                 "permalink": "/wiki/category/administration-and-configuration"
               },
               "next": {
-                "title": "Course Structure",
-                "permalink": "/wiki/admin/structure"
+                "title": "Course Settings (Admin)",
+                "permalink": "/wiki/admin/course-settings"
               }
             },
             {
@@ -55,13 +81,13 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 2,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 2
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Course Settings",
+                "title": "Course Settings (Admin)",
                 "permalink": "/wiki/admin/course-settings"
               },
               "next": {
@@ -73,7 +99,7 @@
               "unversionedId": "intro",
               "id": "intro",
               "title": "👋 Welcome to Smart Storyboard",
-              "description": "The Smart Storyboard is a cloud based development tool which aims to replace word based documents as the primary means of capturing and developing learning material for online courses.The Smart Storyboard has been designed to add meaningful data to content Lessons and Blocks which can be used to manage the progress of course development in ways previously not possible.The Smart Storyboard generates a number of reports from the data to enable multidisciplinary teams to more efficiently and effectively contribute to the course development at key moments through the process.The Smart Storyboard enables the implementation and integration of Learning Patterns into the Learning Design Process.The Smart Storyboard allows Learning Designers and SMEs to visualise their course materials in a near-to-complete state before the course is finalised. The Smart Storyboard allows truly agile course development to occur.Key functionsSequenceCollaborateReportMap out the course material into Lessons and BlocksCapture academic contentLive proress trackingApply Learning PatternsReview, comment and buildAccurate task managementAllocate tasksDefine media and delivery modesStudent time on task &amp; taggingDefinitionsFirst, some quick vocab for the tool.TermDescriptionBlockA content area which can be added to a Lesson, each Block has assignable data such as Learning Patterns, Statuses and Assignees as well as a WYSIWIG editor to enter Block content.LessonA Lesson is a sequence of Blocks which make up a single idea/concept or topic. Lessons could be used in place of a Page in a course or LMS, a single Class or Tutorial session, or a Learning Sequence (of Blocks).ModuleModules or Weeks are time based groups of content, for instance, a Module could have 6 Lessons which need to be completed over a week of course duration.Reading (list)A Reading is a reference to an individual required text material used during the course. A reading should be added once and reused when required throughout the course. A Reading List is the list of all Readings within a course. A completed Reading List will be sent to the Library to be added to the course.MediaMedia is any type of media object that is required in the course. Media types are Video, Animation, Image, H5P component or custom interactive. All Media objects are giving a unique ID and added to the Media Registry.ReferenceA Reference is an academic source of the information contained within a Block.SourceSource should be used when linking to an External Resource, for instance, linking to an existing Assessment or Discusison object within the MyUni instance of a course.ActivityA learning activity is a way of defining where students will spend their time in a course. These activities assist the course design process and assist in defining the student experience. The types of activity used in the smart storyboard are: Course content, Interaction, Discussion, External resources, Practice, Assessment &amp; Review.Learning PatternA learning pattern is a common expression of an activity. They provide a building block for the development of a learning sequence or lesson. The aim of a pattern is not to behave as a template where you fill in the blanks, but as a guide to develop a modular piece of a larger whole. The idea is to use the patterns as a scaffold to inform the writing and development of a lesson.Time on TaskThe Time on Task function in the Smart Storyboard refers to the total amount of time allocated to a student to complete each Block of content. The total Time on Task for each Module is calculated and displayed at the Module view. Time allocations for each Learning Pattern type are displayed against each Lesson in this view.Getting StartedThe first step to getting started is to create an account if you don't have one, else, enrol in your course and start creating your first Lesson.",
+              "description": "TheSmart Storyboard is a cloud based development tool which aims to replace word based documents as the primary means of capturing and developing learning material for online courses.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/",
@@ -130,40 +156,14 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Adding Media",
-                "permalink": "/wiki/using-ssb/media"
-              },
-              "next": {
-                "title": "Course Dashboard & Tasks",
-                "permalink": "/wiki/using-ssb/dashboard"
-              }
-            },
-            {
-              "unversionedId": "using-ssb/dashboard",
-              "id": "using-ssb/dashboard",
-              "title": "Course Dashboard & Tasks",
-              "description": "Dashboard",
-              "source": "@site/docs/using-ssb/dashboard.md",
-              "sourceDirName": "using-ssb",
-              "slug": "/using-ssb/dashboard",
-              "permalink": "/wiki/using-ssb/dashboard",
-              "draft": false,
-              "tags": [],
-              "version": "current",
               "sidebarPosition": 6,
               "frontMatter": {
                 "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Assessments",
-                "permalink": "/wiki/using-ssb/assessment"
+                "title": "Adding Media",
+                "permalink": "/wiki/using-ssb/media"
               },
               "next": {
                 "title": "Quizzes & Discussions",
@@ -192,8 +192,8 @@
                 "permalink": "/wiki/using-ssb/account"
               },
               "next": {
-                "title": "Modules, Lessons & Blocks",
-                "permalink": "/wiki/using-ssb/modules"
+                "title": "Requesting a new course",
+                "permalink": "/wiki/using-ssb/request"
               }
             },
             {
@@ -208,9 +208,9 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 4,
+              "sidebarPosition": 5,
               "frontMatter": {
-                "sidebar_position": 4
+                "sidebar_position": 5
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -234,14 +234,14 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 3,
+              "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_position": 3
+                "sidebar_position": 4
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Course enrolment and navigation",
-                "permalink": "/wiki/using-ssb/enrolment"
+                "title": "Requesting a new course",
+                "permalink": "/wiki/using-ssb/request"
               },
               "next": {
                 "title": "Adding Media",
@@ -260,18 +260,44 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 6,
+              "sidebarPosition": 7,
               "frontMatter": {
-                "sidebar_position": 6
+                "sidebar_position": 7
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Course Dashboard & Tasks",
-                "permalink": "/wiki/using-ssb/dashboard"
+                "title": "Assessments",
+                "permalink": "/wiki/using-ssb/assessment"
               },
               "next": {
                 "title": "Administration and Configuration",
                 "permalink": "/wiki/category/administration-and-configuration"
+              }
+            },
+            {
+              "unversionedId": "using-ssb/request",
+              "id": "using-ssb/request",
+              "title": "Requesting a new course",
+              "description": "All users have the ability to request a new course in the Smart Storyboard. This can be done from the Dashboard by selecting the ‘Change Course’ button, and then the ‘New Course Request’ button which will appear in the top right corner.",
+              "source": "@site/docs/using-ssb/request.md",
+              "sourceDirName": "using-ssb",
+              "slug": "/using-ssb/request",
+              "permalink": "/wiki/using-ssb/request",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Course enrolment and navigation",
+                "permalink": "/wiki/using-ssb/enrolment"
+              },
+              "next": {
+                "title": "Modules, Lessons & Blocks",
+                "permalink": "/wiki/using-ssb/modules"
               }
             },
             {
@@ -372,6 +398,10 @@
                   },
                   {
                     "type": "doc",
+                    "id": "using-ssb/request"
+                  },
+                  {
+                    "type": "doc",
                     "id": "using-ssb/modules"
                   },
                   {
@@ -381,10 +411,6 @@
                   {
                     "type": "doc",
                     "id": "using-ssb/assessment"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "using-ssb/dashboard"
                   },
                   {
                     "type": "doc",
@@ -403,6 +429,10 @@
                 "collapsible": true,
                 "collapsed": false,
                 "items": [
+                  {
+                    "type": "doc",
+                    "id": "admin/dashboard"
+                  },
                   {
                     "type": "doc",
                     "id": "admin/course-settings"

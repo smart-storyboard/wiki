@@ -1,123 +1,84 @@
 {
-  "/wiki/__docusaurus/debug-9c6": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/wiki/markdown-page-84a": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---wiki-docusaurus-debug-591-39d"
-    }
-  },
-  "/wiki/__docusaurus/debug/config-77b": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---wiki-docusaurus-debug-591-39d"
-    }
-  },
-  "/wiki/__docusaurus/debug/content-868": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---wiki-docusaurus-debug-591-39d"
+      "plugin": "b7468ba2"
     },
-    "allContent": "allContent---wiki-docusaurus-debug-content-246-659"
+    "content": "393be207"
   },
-  "/wiki/__docusaurus/debug/globalData-f59": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
+  "/wiki/-f3d": {
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---wiki-docusaurus-debug-591-39d"
-    }
-  },
-  "/wiki/__docusaurus/debug/metadata-9e2": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---wiki-docusaurus-debug-591-39d"
-    }
-  },
-  "/wiki/__docusaurus/debug/registry-6d1": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---wiki-docusaurus-debug-591-39d"
-    }
-  },
-  "/wiki/__docusaurus/debug/routes-28b": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---wiki-docusaurus-debug-591-39d"
-    }
-  },
-  "/wiki/markdown-page-017": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
-    "__context": {
-      "plugin": "plugin---wiki-markdown-pageb-72-cb8"
+      "plugin": "add3262f"
     },
-    "content": "content---wiki-markdown-page-393-329"
-  },
-  "/wiki/-0f7": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
-    "__context": {
-      "plugin": "plugin---wiki-e-9-f-de1"
-    },
-    "versionMetadata": "versionMetadata---wiki-935-e12"
+    "versionMetadata": "935f2afb"
   },
   "/wiki/-9e4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wiki-0-e-3-c77"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/wiki/admin/course-settings-426": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wiki-admin-course-settingsd-48-df7"
+    "__comp": "17896441",
+    "content": "d4853efd"
+  },
+  "/wiki/admin/dashboard-328": {
+    "__comp": "17896441",
+    "content": "32d15007"
   },
   "/wiki/admin/structure-bf8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wiki-admin-structure-899-d50"
+    "__comp": "17896441",
+    "content": "8996497f"
   },
   "/wiki/category/administration-and-configuration-691": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---wiki-category-administration-and-configuration-888-a1c"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "888bdfac"
   },
   "/wiki/category/learning-video-production-in-smart-storyboard-e08": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---wiki-category-learning-video-production-in-smart-storyboard-33-e-a09"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "33ebc42b"
   },
   "/wiki/category/using-smart-storyboard-efd": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---wiki-category-using-smart-storyboardd-91-716"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "d91179f3"
   },
   "/wiki/using-ssb/account-c73": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wiki-using-ssb-accountf-64-ee8"
+    "__comp": "17896441",
+    "content": "f647410a"
   },
   "/wiki/using-ssb/assessment-c43": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wiki-using-ssb-assessment-4-d-6-d7f"
-  },
-  "/wiki/using-ssb/dashboard-9bb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wiki-using-ssb-dashboardf-71-d07"
+    "__comp": "17896441",
+    "content": "4d6a4172"
   },
   "/wiki/using-ssb/enrolment-29e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wiki-using-ssb-enrolment-9-f-9-f12"
+    "__comp": "17896441",
+    "content": "9f947e55"
   },
   "/wiki/using-ssb/media-4fb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wiki-using-ssb-media-92-a-a6f"
+    "__comp": "17896441",
+    "content": "92a5f668"
   },
   "/wiki/using-ssb/modules-27f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wiki-using-ssb-modules-250-6ff"
+    "__comp": "17896441",
+    "content": "2502769d"
   },
   "/wiki/using-ssb/quizzes-808": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wiki-using-ssb-quizzese-48-0f3"
+    "__comp": "17896441",
+    "content": "e48aed36"
+  },
+  "/wiki/using-ssb/request-2ae": {
+    "__comp": "17896441",
+    "content": "9741ee30"
   },
   "/wiki/video/intro-660": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wiki-video-intro-686-604"
+    "__comp": "17896441",
+    "content": "68602aa5"
   },
   "/wiki/video/video-media-fa6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wiki-video-video-media-10-b-c0b"
+    "__comp": "17896441",
+    "content": "10bd7f61"
   },
   "/wiki/video/writing-video-978": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wiki-video-writing-video-2-e-9-138"
+    "__comp": "17896441",
+    "content": "2e9c50b6"
   }
 }

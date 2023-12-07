@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "admin/dashboard",
+              "path": "/wiki/admin/dashboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "admin/structure",
               "path": "/wiki/admin/structure",
               "sidebar": "tutorialSidebar"
@@ -36,11 +41,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "using-ssb/dashboard",
-              "path": "/wiki/using-ssb/dashboard",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "using-ssb/enrolment",
               "path": "/wiki/using-ssb/enrolment",
               "sidebar": "tutorialSidebar"
@@ -58,6 +58,11 @@
             {
               "id": "using-ssb/quizzes",
               "path": "/wiki/using-ssb/quizzes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "using-ssb/request",
+              "path": "/wiki/using-ssb/request",
               "sidebar": "tutorialSidebar"
             },
             {

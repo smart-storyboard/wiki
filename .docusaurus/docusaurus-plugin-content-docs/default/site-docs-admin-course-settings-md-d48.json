@@ -1,7 +1,7 @@
 {
   "unversionedId": "admin/course-settings",
   "id": "admin/course-settings",
-  "title": "Course Settings",
+  "title": "Course Settings (Admin)",
   "description": "Admin users can view and modify course configuration settings in the Course Config view. Here, the Course Readings list link can also be added and edited, which provides all users with a hyperlink to the Course Readings from the Dashboard.",
   "source": "@site/docs/admin/course-settings.md",
   "sourceDirName": "admin",
@@ -10,14 +10,14 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Administration and Configuration",
-    "permalink": "/wiki/category/administration-and-configuration"
+    "title": "The Dashboard",
+    "permalink": "/wiki/admin/dashboard"
   },
   "next": {
     "title": "Course Structure",

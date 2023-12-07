@@ -10,14 +10,14 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 4,
   "frontMatter": {
-    "sidebar_position": 3
+    "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Course enrolment and navigation",
-    "permalink": "/wiki/using-ssb/enrolment"
+    "title": "Requesting a new course",
+    "permalink": "/wiki/using-ssb/request"
   },
   "next": {
     "title": "Adding Media",

@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Viewing a course
 
-The first time you use the Smart Storyboad, you will need to select a **Course** on the Smart Storyboard Dashboard. If you are not part of a team, you will not see any courses and will need to contact the Media team to be added.
+The first time you use the Smart Storyboard, you will need to select a **Course** on the Smart Storyboard Dashboard. If you are not part of a team, you will not see any courses and will need to contact the Media team to be added.
 
 <div style={{textAlign: 'center'}}>
 
@@ -18,9 +18,8 @@ To change the course when you are already inside a course, go to the Dashboard a
 
 <div style={{textAlign: 'center'}}>
 
-![img_6.png](img/img_6.png)
+![img_6.png](img/img_6.png) ![img_7.png](img/img_7.png)
 
-![img_7.png](img/img_7.png)
 
 </div>
 
@@ -45,20 +44,6 @@ Once you are enrolled, the enrolled icon will display:
 
 </div>
 
-
-## Adding a new course
-
-To add a new course to the Smart Storyboard, send an email to the Media team with the following information:
-
--   Course Name
--   Course Code (optional)
--   Duration Type (Module/Week/Section)
--   Lesson Display Name (Page/Lesson/Part/Topic/Activity)
--   Hours per Module/Week/Section
--   Number of Modules/Weeks/Sections.
-
-Once created, the Media team will respond to let you know.
-
 ## Navigation Items
 
 **Reports**
@@ -75,7 +60,7 @@ These items at the top of the navigation hold the Dashboard (the home page of th
 
 **Course Elements**
 
-These items contain the course content elements that are different to the Learning content during the weekly learning journey - Assessments, Discussions, Quizzes.
+These items contain the course content elements that are different to the Learning content during the weekly learning journey - Assessments, Discussions, Quizzes, and Sessions.
 
 <div style={{textAlign: 'center'}}>
 
@@ -93,9 +78,9 @@ These items allow you to navigate to Modules/Lessons inside the course. Each mod
 
 </div>
 
-**User details**
+**User Section**
 
-These items will let you see your profile, change course settings (if an admin of the course) and access the admin page (if a Smart Storyboard Admin)
+These items will let you see your profile, change course settings (if an admin of the course) and access the admin page (if a Smart Storyboard Admin). To collapse the side bar menu, click on the button with an arrow at the bottom.
 
 <div style={{textAlign: 'center'}}>
 

@@ -29,7 +29,7 @@ To use the **Smart Storyboard**, you will need an account and this is created in
 To get access to the tool, you _**will**_ need a special access code. If you don’t have this, get in touch with the Media Production team!
 :::
 
-Sign up using your **full name**, your university email and a secure password. You also should make sure you assign yourself the correct role and team:
+Sign up using your **first name** and **last name**, your university email and a secure password. You also should make sure you assign yourself the correct role and team:
 
 ### Roles
 
@@ -37,7 +37,7 @@ Sign up using your **full name**, your university email and a secure password. Y
 |--|--|
 | Course Author (CA) | The SME or academic role for the course. |
 | Learning Designer (LD) | The learning designer(s) involved in the course. One of these would also be an admin or lead learning design role, but that’s something that gets sorted out during initial course setup. |
-| Course Builder (CB) | Course Builder role from the Media Production team - will be building the course and performing some graphic design tasks. |
+| Digital Education Developer (DED) | Digital Education Developer role will be building the course and performing some graphic design tasks. |
 | Learning Resource Developer (LRD) | Learning Resource Developer from the Media Production team - will be creating bespoke graphics, interactives, some course build and be involved in experience design. |
 | Video Producer (VP) | Role for the Video team inside Media Production |
 | Coordinator (CO) | A passive role for Project and Program Coordinators to view information |
@@ -59,6 +59,8 @@ Admins have access to the Course Settings menu, where they can:
 -   Adjust Course Configuration
 
 -   Edit and Re-order the Course Structure.
+
+See <a rel="noopener noreferrer nofollow" href="../admin/course-settings">Course Settings (Admin)</a>for further details on these activities.
 
 
 

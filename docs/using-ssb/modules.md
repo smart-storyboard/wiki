@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Modules, Lessons & Blocks
@@ -25,12 +25,12 @@ The Module Status is used to move work through the production process.
 
 </div>
 
-|Status|Description  |
-|--|--|
-| In Progress | The default status while content is being developed. |
+| Status                                               |Description  |
+|------------------------------------------------------|--|
+| In Progress                                          | The default status while content is being developed. |
 | Ready for Review | Content is complete and ready for internal/peer review. |
-| Ready to Build | All content, including associated media items are ready for production and platform. |
-| In Platform | All content is build and in the LMS ready for final review. |
+| Ready to Build                                       | All content, including associated media items are ready for production and platform. |
+| In Platform                                          | All content is build and in the LMS ready for final review. |
 
 
 _Module status **does not impact** on the overall course completion %._

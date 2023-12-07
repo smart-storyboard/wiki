@@ -1,0 +1,26 @@
+{
+  "unversionedId": "using-ssb/request",
+  "id": "using-ssb/request",
+  "title": "Requesting a new course",
+  "description": "All users have the ability to request a new course in the Smart Storyboard. This can be done from the Dashboard by selecting the ‘Change Course’ button, and then the ‘New Course Request’ button which will appear in the top right corner.",
+  "source": "@site/docs/using-ssb/request.md",
+  "sourceDirName": "using-ssb",
+  "slug": "/using-ssb/request",
+  "permalink": "/wiki/using-ssb/request",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Course enrolment and navigation",
+    "permalink": "/wiki/using-ssb/enrolment"
+  },
+  "next": {
+    "title": "Modules, Lessons & Blocks",
+    "permalink": "/wiki/using-ssb/modules"
+  }
+}
