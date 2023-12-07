@@ -21,8 +21,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "admin/structure",
-              "path": "/wiki/admin/structure",
+              "id": "admin/workflow",
+              "path": "/wiki/admin/workflow",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -63,6 +63,11 @@
             {
               "id": "using-ssb/request",
               "path": "/wiki/using-ssb/request",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "using-ssb/status",
+              "path": "/wiki/using-ssb/status",
               "sidebar": "tutorialSidebar"
             },
             {

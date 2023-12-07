@@ -25,6 +25,8 @@ You can now add Assessments to each Group by clicking the ‘+Assessment’ butt
 
 <div style={{textAlign: 'center'}}>
 
+![img_30-1.png](img/img_30-1.png)
+
 ![img_30.png](img/img_30.png)
 
 </div>

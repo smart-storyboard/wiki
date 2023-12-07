@@ -1,0 +1,26 @@
+{
+  "unversionedId": "using-ssb/status",
+  "id": "using-ssb/status",
+  "title": "Media Asset Status",
+  "description": "Each media asset is issued with a status dropdown. This is used to move media assets through the Learning Design and",
+  "source": "@site/docs/using-ssb/status.md",
+  "sourceDirName": "using-ssb",
+  "slug": "/using-ssb/status",
+  "permalink": "/wiki/using-ssb/status",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Discussions, Quizzes, and Sessions",
+    "permalink": "/wiki/using-ssb/quizzes"
+  },
+  "next": {
+    "title": "Administration and Configuration",
+    "permalink": "/wiki/category/administration-and-configuration"
+  }
+}

@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Writing your video storyboard
 
+## Adding details
+
 Each Video Storyboard has a number of fields that can be populated from within the Storyboard view. These include:
 
 - **Video Type** - intended to capture the type of video. Eg. Talking head, or Interview.
@@ -12,14 +14,13 @@ Each Video Storyboard has a number of fields that can be populated from within t
 
 - **Reviewer** - who needs to review/approve the video
 
-:::note
+:::infoImportant Notes:
 
+- The **Video title** can be changed from the Storyboard view and will be reflected in the Media Registry.
 
-- The Video title can be changed from the Storyboard view and will be reflected in the Media Registry.
+- The **Media Note** is pulled from the Media Registry, but can not be changed in this view.
 
-- The Media Note is pulled from the Media Registry, but can not be changed in this view.
-
-- The Estimated Duration is calculated based on the word count and average reading speeds.
+- The **Estimated Duration** is calculated based on the word count and average reading speeds.
 
 :::
 

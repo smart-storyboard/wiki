@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Storyboards and Media Assets
+# Video Storyboards and Media Assets
 
 Videos can now have media items nested within them - meaning a video can have images or animations attached to them.
 

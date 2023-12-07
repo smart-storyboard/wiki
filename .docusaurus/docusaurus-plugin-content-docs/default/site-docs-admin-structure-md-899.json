@@ -1,8 +1,8 @@
 {
   "unversionedId": "admin/structure",
   "id": "admin/structure",
-  "title": "Course Structure",
-  "description": "From the Structure tab in Course Settings, the Admin can Add lessons, Edit the names of lessons and switch to Reorder mode where lessons can be dragged and dropped into other Modules.",
+  "title": "Workflow using the Tasks View",
+  "description": "The Smart Storyboard has a view for seeing your work to do - these either take the form of blocks you are assigned to as Tasks; Comments you have been tagged in, as well as any Unassigned comments that may pertain to your work.",
   "source": "@site/docs/admin/structure.md",
   "sourceDirName": "admin",
   "slug": "/admin/structure",
@@ -20,7 +20,7 @@
     "permalink": "/wiki/admin/course-settings"
   },
   "next": {
-    "title": "Learning Video Production in Smart Storyboard",
-    "permalink": "/wiki/category/learning-video-production-in-smart-storyboard"
+    "title": "workflow",
+    "permalink": "/wiki/admin/workflow"
   }
 }

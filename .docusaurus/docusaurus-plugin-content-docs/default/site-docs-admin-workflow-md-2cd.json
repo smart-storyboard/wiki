@@ -1,0 +1,26 @@
+{
+  "unversionedId": "admin/workflow",
+  "id": "admin/workflow",
+  "title": "Workflow using the Tasks View",
+  "description": "The Smart Storyboard has a view for seeing your work to do - these either take the form of blocks you are assigned to as Tasks; Comments you have been tagged in, as well as any Unassigned comments that may pertain to your work.",
+  "source": "@site/docs/admin/workflow.md",
+  "sourceDirName": "admin",
+  "slug": "/admin/workflow",
+  "permalink": "/wiki/admin/workflow",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Course Settings (Admin)",
+    "permalink": "/wiki/admin/course-settings"
+  },
+  "next": {
+    "title": "Learning Video Production in Smart Storyboard",
+    "permalink": "/wiki/category/learning-video-production-in-smart-storyboard"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "unversionedId": "video/video-media",
   "id": "video/video-media",
-  "title": "Storyboards and Media Assets",
+  "title": "Video Storyboards and Media Assets",
   "description": "Videos can now have media items nested within them - meaning a video can have images or animations attached to them.",
   "source": "@site/docs/video/video-media.md",
   "sourceDirName": "video",

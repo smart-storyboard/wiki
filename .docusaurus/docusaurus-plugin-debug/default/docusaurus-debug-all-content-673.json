@@ -39,15 +39,15 @@
                 "permalink": "/wiki/admin/dashboard"
               },
               "next": {
-                "title": "Course Structure",
-                "permalink": "/wiki/admin/structure"
+                "title": "Workflow using the Tasks View",
+                "permalink": "/wiki/admin/workflow"
               }
             },
             {
               "unversionedId": "admin/dashboard",
               "id": "admin/dashboard",
               "title": "The Dashboard",
-              "description": "Dashboard",
+              "description": "The Dashboard provides all users with a snapshot of course development progress. The Storyboard Completion % is a total completion of all available Blocks, while the Lesson Completion is a total completion of Blocks within each Lesson. The Block Status is a visual indicator of the status of all Blocks within each Lesson and is summarised at a Course level above.",
               "source": "@site/docs/admin/dashboard.md",
               "sourceDirName": "admin",
               "slug": "/admin/dashboard",
@@ -70,14 +70,14 @@
               }
             },
             {
-              "unversionedId": "admin/structure",
-              "id": "admin/structure",
-              "title": "Course Structure",
-              "description": "From the Structure tab in Course Settings, the Admin can Add lessons, Edit the names of lessons and switch to Reorder mode where lessons can be dragged and dropped into other Modules.",
-              "source": "@site/docs/admin/structure.md",
+              "unversionedId": "admin/workflow",
+              "id": "admin/workflow",
+              "title": "Workflow using the Tasks View",
+              "description": "The Smart Storyboard has a view for seeing your work to do - these either take the form of blocks you are assigned to as Tasks; Comments you have been tagged in, as well as any Unassigned comments that may pertain to your work.",
+              "source": "@site/docs/admin/workflow.md",
               "sourceDirName": "admin",
-              "slug": "/admin/structure",
-              "permalink": "/wiki/admin/structure",
+              "slug": "/admin/workflow",
+              "permalink": "/wiki/admin/workflow",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -166,7 +166,7 @@
                 "permalink": "/wiki/using-ssb/media"
               },
               "next": {
-                "title": "Quizzes & Discussions",
+                "title": "Discussions, Quizzes, and Sessions",
                 "permalink": "/wiki/using-ssb/quizzes"
               }
             },
@@ -251,8 +251,8 @@
             {
               "unversionedId": "using-ssb/quizzes",
               "id": "using-ssb/quizzes",
-              "title": "Quizzes & Discussions",
-              "description": "Discussions and Quizzes are added through the Lesson view page:",
+              "title": "Discussions, Quizzes, and Sessions",
+              "description": "Discussions, Quizzes, and Sessions are added through the Lesson view page:",
               "source": "@site/docs/using-ssb/quizzes.md",
               "sourceDirName": "using-ssb",
               "slug": "/using-ssb/quizzes",
@@ -270,8 +270,8 @@
                 "permalink": "/wiki/using-ssb/assessment"
               },
               "next": {
-                "title": "Administration and Configuration",
-                "permalink": "/wiki/category/administration-and-configuration"
+                "title": "Media Asset Status",
+                "permalink": "/wiki/using-ssb/status"
               }
             },
             {
@@ -301,10 +301,36 @@
               }
             },
             {
+              "unversionedId": "using-ssb/status",
+              "id": "using-ssb/status",
+              "title": "Media Asset Status",
+              "description": "Each media asset is issued with a status dropdown. This is used to move media assets through the Learning Design and",
+              "source": "@site/docs/using-ssb/status.md",
+              "sourceDirName": "using-ssb",
+              "slug": "/using-ssb/status",
+              "permalink": "/wiki/using-ssb/status",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Discussions, Quizzes, and Sessions",
+                "permalink": "/wiki/using-ssb/quizzes"
+              },
+              "next": {
+                "title": "Administration and Configuration",
+                "permalink": "/wiki/category/administration-and-configuration"
+              }
+            },
+            {
               "unversionedId": "video/intro",
               "id": "video/intro",
               "title": "Video Production Storyboarding",
-              "description": "Video Production view has now been added to the Smart Storyboard. This view can be used to see videos and animations in the course, create new storyboards for a video, update their status, and navigate to each “storyboard” as needed. This introductory page will cover how to find this new view, how to create your new video storyboard and how to assign statuses.",
+              "description": "Video Production view has now been added to the Smart Storyboard. This view can be used to see videos and animations in",
               "source": "@site/docs/video/intro.md",
               "sourceDirName": "video",
               "slug": "/video/intro",
@@ -329,7 +355,7 @@
             {
               "unversionedId": "video/video-media",
               "id": "video/video-media",
-              "title": "Storyboards and Media Assets",
+              "title": "Video Storyboards and Media Assets",
               "description": "Videos can now have media items nested within them - meaning a video can have images or animations attached to them.",
               "source": "@site/docs/video/video-media.md",
               "sourceDirName": "video",
@@ -352,7 +378,7 @@
               "unversionedId": "video/writing-video",
               "id": "video/writing-video",
               "title": "Writing your video storyboard",
-              "description": "Each Video Storyboard has a number of fields that can be populated from within the Storyboard view. These include:",
+              "description": "Adding details",
               "source": "@site/docs/video/writing-video.md",
               "sourceDirName": "video",
               "slug": "/video/writing-video",
@@ -370,7 +396,7 @@
                 "permalink": "/wiki/video/intro"
               },
               "next": {
-                "title": "Storyboards and Media Assets",
+                "title": "Video Storyboards and Media Assets",
                 "permalink": "/wiki/video/video-media"
               }
             }
@@ -415,6 +441,10 @@
                   {
                     "type": "doc",
                     "id": "using-ssb/quizzes"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "using-ssb/status"
                   }
                 ],
                 "link": {
@@ -439,7 +469,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "admin/structure"
+                    "id": "admin/workflow"
                   }
                 ],
                 "link": {

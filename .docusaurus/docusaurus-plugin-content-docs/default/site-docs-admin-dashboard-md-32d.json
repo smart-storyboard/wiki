@@ -2,7 +2,7 @@
   "unversionedId": "admin/dashboard",
   "id": "admin/dashboard",
   "title": "The Dashboard",
-  "description": "Dashboard",
+  "description": "The Dashboard provides all users with a snapshot of course development progress. The Storyboard Completion % is a total completion of all available Blocks, while the Lesson Completion is a total completion of Blocks within each Lesson. The Block Status is a visual indicator of the status of all Blocks within each Lesson and is summarised at a Course level above.",
   "source": "@site/docs/admin/dashboard.md",
   "sourceDirName": "admin",
   "slug": "/admin/dashboard",

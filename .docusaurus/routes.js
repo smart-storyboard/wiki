@@ -9,7 +9,7 @@ export default [
   },
   {
     path: '/wiki/',
-    component: ComponentCreator('/wiki/', 'f3d'),
+    component: ComponentCreator('/wiki/', 'd8e'),
     routes: [
       {
         path: '/wiki/',
@@ -30,8 +30,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/wiki/admin/structure',
-        component: ComponentCreator('/wiki/admin/structure', 'bf8'),
+        path: '/wiki/admin/workflow',
+        component: ComponentCreator('/wiki/admin/workflow', '6e0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -92,6 +92,12 @@ export default [
       {
         path: '/wiki/using-ssb/request',
         component: ComponentCreator('/wiki/using-ssb/request', '2ae'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/wiki/using-ssb/status',
+        component: ComponentCreator('/wiki/using-ssb/status', 'fff'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

@@ -1,8 +1,8 @@
 {
   "unversionedId": "using-ssb/quizzes",
   "id": "using-ssb/quizzes",
-  "title": "Quizzes & Discussions",
-  "description": "Discussions and Quizzes are added through the Lesson view page:",
+  "title": "Discussions, Quizzes, and Sessions",
+  "description": "Discussions, Quizzes, and Sessions are added through the Lesson view page:",
   "source": "@site/docs/using-ssb/quizzes.md",
   "sourceDirName": "using-ssb",
   "slug": "/using-ssb/quizzes",
@@ -20,7 +20,7 @@
     "permalink": "/wiki/using-ssb/assessment"
   },
   "next": {
-    "title": "Administration and Configuration",
-    "permalink": "/wiki/category/administration-and-configuration"
+    "title": "Media Asset Status",
+    "permalink": "/wiki/using-ssb/status"
   }
 }

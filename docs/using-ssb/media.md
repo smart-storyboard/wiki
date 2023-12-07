@@ -7,7 +7,7 @@ sidebar_position: 5
 This is for the LD/SME-focused documentation. For the Media Production and Course Build-oriented documentation on working with Media, this can be found in our internal Confluence page.
 :::
 
-## Media
+## Adding Media to a Block
 
 Media can be added to any Block in the Smart Storyboard. Users are required to add information about each Media item in the modal popup, including:
 

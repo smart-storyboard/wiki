@@ -24,8 +24,7 @@ To use the **Smart Storyboard**, you will need an account and this is created in
 
 </div>
 
-:::info
-**Speak, Friend, and Enter**  
+:::tipSpeak, Friend, and Enter
 To get access to the tool, you _**will**_ need a special access code. If you don’t have this, get in touch with the Media Production team!
 :::
 
